@@ -1,0 +1,62 @@
+productCode,casNum,compound,smiles,flashPoint,img,sds
+ENEA0015,591-87-7,Allyl acetate,C(C)(=O)OCC=C,11,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEA0015.gif,https://s3.amazonaws.com/gelest/sds/ENEA0015_GHS+US_English+US.pdf
+ENEA0020,999-55-3,Allyl acrylate,C(C=C)(=O)OCC=C,32,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEA0020.gif,https://s3.amazonaws.com/gelest/sds/ENEA0020_GHS+US_English+US.pdf
+ENEA0040,300-57-2,Allylbenzene,C(C=C)C1=CC=CC=C1,40,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEA0040.gif,https://s3.amazonaws.com/gelest/sds/ENEA0040_GHS+US_English+US.pdf
+ENEA0050,106-95-6,Allyl bromide,C(C=C)Br,2,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEA0050.gif,https://s3.amazonaws.com/gelest/sds/ENEA0050_GHS+US_English+US.pdf
+ENEA0055,40630-82-8,Allyl 2-bromo-2-methylpropionate,BrC(C(=O)OCC=C)(C)C,64,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEA0055.gif,https://s3.amazonaws.com/gelest/sds/ENEA0055_GHS+US_English+US.pdf
+ENEA0070,107-05-1,Allyl chloride,C(C=C)Cl,31,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEA0070.gif,https://s3.amazonaws.com/gelest/sds/ENEA0070_GHS+US_English+US.pdf
+ENEA0080,106-92-3,Allyl glycidyl ether,C(C1CO1)OCC=C,57,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEA0080.gif,https://s3.amazonaws.com/gelest/sds/ENEA0080_GHS+US_English+US.pdf
+ENEA0090,1476-23-9,Allyl isocyanate,C(C=C)N=C=O,43,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEA0090.gif,https://s3.amazonaws.com/gelest/sds/ENEA0090_GHS+US_English+US.pdf
+ENEA0120,96-05-9,Allyl methacrylate,C(C(=C)C)(=O)OCC=C,39,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEA0120.gif,https://s3.amazonaws.com/gelest/sds/ENEA0120_GHS+US_English+US.pdf
+ENEA0200,111-45-5,2-Allyloxyethanol,C(C=C)OCCO,66,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEA0200.gif,https://s3.amazonaws.com/gelest/sds/ENEA0200_GHS+US_English+US.pdf
+ENEA0250,175668-89-0,2-(Allyloxymethyl)tetrahydrofuran,C(C=C)OCC1OCCC1,40,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEA0250.gif,https://s3.amazonaws.com/gelest/sds/ENEA0250_GHS+US_English+US.pdf
+ENEA0378,1736-60-3,Allylpentafluorobenzene,C(C=C)C1=C(C(=C(C(=C1F)F)F)F)F,43,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEA0378.gif,https://s3.amazonaws.com/gelest/sds/ENEA0378_GHS+US_English+US.pdf
+ENEA0380,1746-13-0,ALLYLPHENYL ETHER,C(C=C)OC1=CC=CC=C1,66,https://www.gelest.com:443/wp-content/uploads/ENEA0380-460x460.png,https://s3.amazonaws.com/gelest/sds/ENEA0380_GHS+US_English+US.pdf
+ENEA0430,7539-12-0,Allylsuccinic anhydride,C(C=C)C1C(=O)OC(C1)=O,145,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEA0430.gif,https://s3.amazonaws.com/gelest/sds/ENEA0430_GHS+US_English+US.pdf
+ENEB0525,5162-44-7,4-Bromo-1-butene,BrCCC=C,1,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEB0525.gif,https://s3.amazonaws.com/gelest/sds/ENEB0525_GHS+US_English+US.pdf
+ENEB0550,4117-09-3,7-Bromo-1-heptene,BrCCCCCC=C,58,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEB0550.gif,https://s3.amazonaws.com/gelest/sds/ENEB0550_GHS+US_English+US.pdf
+ENEB0555,1119-51-3,5-Bromo-1-pentene,BrCCCC=C,30,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEB0555.gif,https://s3.amazonaws.com/gelest/sds/ENEB0555_GHS+US_English+US.pdf
+ENEB0570,7766-50-9,11-Bromo-1-undecene,BrCCCCCCCCCC=C,113,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEB0570.gif,https://s3.amazonaws.com/gelest/sds/ENEB0570_GHS+US_English+US.pdf
+ENEB0575,109-75-1,3-Butenenitrile,C(CC=C)#N,24,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEB0575.gif,https://s3.amazonaws.com/gelest/sds/ENEB0575_GHS+US_English+US.pdf
+ENEB0580,627-27-0,3-Buten-1-ol,C(CC=C)O,33,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEB0580.gif,https://s3.amazonaws.com/gelest/sds/ENEB0580_GHS+US_English+US.pdf
+ENEC0620,110-83-8,Cyclohexene,C1=CCCCC1,12,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEC0620.gif,https://s3.amazonaws.com/gelest/sds/ENEC0620_GHS+US_English+US.pdf
+ENEC0650,142-29-0,Cyclopentene,C1=CCCC1,29,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEC0650.gif,https://s3.amazonaws.com/gelest/sds/ENEC0650_GHS+US_English+US.pdf
+ENED0720,872-05-9,1-Decene,C=CCCCCCCCC,44,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENED0720.gif,https://s3.amazonaws.com/gelest/sds/ENED0720_GHS+US_English+US.pdf
+ENED0880,112-41-4,1-Dodecene,C=CCCCCCCCCCC,73,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENED0880.gif,https://s3.amazonaws.com/gelest/sds/ENED0880_GHS+US_English+US.pdf
+ENED0920,5048-44-2,11-Dodecenenitrile,C(CCCCCCCCCC=C)#N,110,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENED0920.gif,https://s3.amazonaws.com/gelest/sds/ENED0920_GHS+US_English+US.pdf
+ENEE1020,3452-07-1,1-Eicosene,C=CCCCCCCCCCCCCCCCCCC,110,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEE1020.gif,https://s3.amazonaws.com/gelest/sds/ENEE1020_GHS+US_English+US.pdf
+ENEE1040,18328-90-0,N-Ethyl-(2-methylallyl)amine,C(C)NCC(=C)C,7,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEE1040.gif,https://s3.amazonaws.com/gelest/sds/ENEE1040_GHS+US_English+US.pdf
+ENEE1060,109-92-2,ETHYLVINYL ETHER,C(C)OC=C,46,https://www.gelest.com:443/wp-content/uploads/ENEE1060.png,https://s3.amazonaws.com/gelest/sds/ENEE1060_GHS+US_English+US.pdf
+ENEH1110,592-76-7,1-Heptene,C=CCCCCC,9,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEH1110.gif,https://s3.amazonaws.com/gelest/sds/ENEH1110_GHS+US_English+US.pdf
+ENEH1140,18835-33-1,1-Hexacosene,C=CCCCCCCCCCCCCCCCCCCCCCCCC,214,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEH1140.gif,https://s3.amazonaws.com/gelest/sds/ENEH1140_GHS+US_English+US.pdf
+ENEH1170,629-73-2,1-Hexadecene,C=CCCCCCCCCCCCCCC,132,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEH1170.gif,https://s3.amazonaws.com/gelest/sds/ENEH1170_GHS+US_English+US.pdf
+ENEH1200,592-41-6,1-Hexene,C=CCCCC,25,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEH1200.gif,https://s3.amazonaws.com/gelest/sds/ENEH1200_GHS+US_English+US.pdf
+ENEI1470,107-39-1,Isooctene,C(=C)(C)CC(C)(C)C,4,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEI1470.gif,https://s3.amazonaws.com/gelest/sds/ENEI1470_GHS+US_English+US.pdf
+ENEM2020,513-42-8,Methallyl alcohol,C(C(C)=C)O,32,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEM2020.gif,https://s3.amazonaws.com/gelest/sds/ENEM2020_GHS+US_English+US.pdf
+ENEM2040,563-47-3,Methallyl chloride,C(C(C)=C)Cl,10,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEM2040.gif,https://s3.amazonaws.com/gelest/sds/ENEM2040_GHS+US_English+US.pdf
+ENEM2050,1319736-08-7,11-(Methoxyethoxy)undecene,COCCOCCCCCCCCCC=C,110,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEM2050.gif,https://s3.amazonaws.com/gelest/sds/ENEM2050_GHS+US_English+US.pdf
+ENEM2100,513-35-9,2-Methyl-2-butene,CC(C)=CC,45,https://www.gelest.com:443/wp-content/uploads/ENEM2100.png,https://s3.amazonaws.com/gelest/sds/ENEM2100_GHS+US_English+US.pdf
+ENEM2120,16529-56-9,2-Methyl-3-butenenitrile,CC(C#N)C=C,15,https://www.gelest.com:443/wp-content/uploads/ENEM2120.png,https://s3.amazonaws.com/gelest/sds/ENEM2120_GHS+US_English+US.pdf
+ENEM2230,210573-39-0,7-Methylenepentadecane,C=C(CCCCCC)CCCCCCCC,110,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEM2230.gif,https://s3.amazonaws.com/gelest/sds/ENEM2230_GHS+US_English+US.pdf
+ENEM2450,111-81-9,Methyl 10-undecenoate,C(CCCCCCCCC=C)(=O)OC,115,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEM2450.gif,https://s3.amazonaws.com/gelest/sds/ENEM2450_GHS+US_English+US.pdf
+ENEN3030,558-37-2,Neohexene,C=CC(C)(C)C,32,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEN3030.gif,https://s3.amazonaws.com/gelest/sds/ENEN3030_GHS+US_English+US.pdf
+ENEN3060,498-66-8,Norbornene,C12C=CC(CC1)C2,7,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEN3060.gif,https://s3.amazonaws.com/gelest/sds/ENEN3060_GHS+US_English+US.pdf
+ENEO3210,112-88-9,1-Octadecene,C=CCCCCCCCCCCCCCCCC,154,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEO3210.gif,https://s3.amazonaws.com/gelest/sds/ENEO3210_GHS+US_English+US.pdf
+ENEO3211,112-88-9,1-OCTADECENE,C=CCCCCCCCCCCCCCCCC,154,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEO3211.gif,https://s3.amazonaws.com/gelest/sds/ENEO3211_GHS+US_English+US.pdf
+ENEO3280,111-66-0,1-Octene,C=CCCCCCC,21,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEO3280.gif,https://s3.amazonaws.com/gelest/sds/ENEO3280_GHS+US_English+US.pdf
+ENEP3380,123-48-8/91053-01-9,PENTAMETHYLHEPTENE,CC(C(=C(C)C)C)(CCCC)C,42,https://www.gelest.com:443/wp-content/uploads/ENEP3380-460x460.png,https://s3.amazonaws.com/gelest/sds/ENEP3380_GHS+US_English+US.pdf
+ENEP3400,109-67-1,1-Pentene,C=CCCC,51,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEP3400.gif,https://s3.amazonaws.com/gelest/sds/ENEP3400_GHS+US_English+US.pdf
+ENEP3510,19430-93-4,(Perfluorobutyl)ethylene,FC(C(C(C(F)(F)F)(F)F)(F)F)(F)C=C,7,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEP3510.gif,https://s3.amazonaws.com/gelest/sds/ENEP3510_GHS+US_English+US.pdf
+ENEP3520,30389-25-4,(Perfluorodecyl)ethylene,FC(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)C=C,125,https://www.gelest.com:443/wp-content/uploads/ENEP3520-600x163.png,https://s3.amazonaws.com/gelest/sds/ENEP3520_GHS+US_English+US.pdf
+ENEP3530,25291-17-2,(Perfluorohexyl)ethylene,FC(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)C=C,21,https://www.gelest.com:443/wp-content/uploads/ENEP3530-600x243.png,https://s3.amazonaws.com/gelest/sds/ENEP3530_GHS+US_English+US.pdf
+ENEP3550,21652-58-4,(Perfluorooctyl)ethylene,FC(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)C=C,125,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEP3550.gif,https://s3.amazonaws.com/gelest/sds/ENEP3550_GHS+US_English+US.pdf
+ENEP3610,768-56-9,4-Phenyl-1-butene,C1(=CC=CC=C1)CCC=C,57,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEP3610.gif,https://s3.amazonaws.com/gelest/sds/ENEP3610_GHS+US_English+US.pdf
+ENEP3630,1588-44-9,6-Phenyl-1-hexene,C1(=CC=CC=C1)CCCCC=C,65,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEP3630.gif,https://s3.amazonaws.com/gelest/sds/ENEP3630_GHS+US_English+US.pdf
+ENET4160,36731-14-3/131459-42-2,Triacontene,C=CCCCCCCCCCCCCCCCCCCCCCCCCCCCC,232,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENET4160.gif,https://s3.amazonaws.com/gelest/sds/ENET4160_GHS+US_English+US.pdf
+ENEU4320,821-95-4,1-Undecene,C=CCCCCCCCCC,63,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEU4320.gif,https://s3.amazonaws.com/gelest/sds/ENEU4320_GHS+US_English+US.pdf
+ENEU4325,112-43-6,10-Undecen-1-ol,C(CCCCCCCCC=C)O,125,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEU4325.gif,https://s3.amazonaws.com/gelest/sds/ENEU4325_GHS+US_English+US.pdf
+ENEU4330,112-19-6,10-Undecen-1-yl acetate,C(C)(=O)OCCCCCCCCCC=C,110,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEU4330.gif,https://s3.amazonaws.com/gelest/sds/ENEU4330_GHS+US_English+US.pdf
+ENEV4520,100-40-3,4-Vinyl-1-cyclohexene,C(=C)C1CC=CCC1,16,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEV4520.gif,https://s3.amazonaws.com/gelest/sds/ENEV4520_GHS+US_English+US.pdf
+ENEV4830,3048-64-4,5-Vinyl-2-norbornene,C(=C)C1C2C=CC(C1)C2,28,https://www.gelest.com:443/wp-content/uploads/product_thumbnails/ENEV4830.gif,https://s3.amazonaws.com/gelest/sds/ENEV4830_GHS+US_English+US.pdf
+PEG0-HH06,2615-15-8,HEXAETHYLENEGLYCOL,C(COCCOCCOCCOCCOCCO)O,20,https://www.gelest.com:443/wp-content/uploads/PEG0-HH06-600x164.png,https://s3.amazonaws.com/gelest/sds/PEG0-HH06_GHS+US_English+US.pdf
+PEG0-HH07,2615-15-8,HEPTAETHYLENEGLYCOL,C(COCCOCCOCCOCCOCCOCCO)O,20,https://www.gelest.com:443/wp-content/uploads/PEG0-HH07-600x164.png,https://s3.amazonaws.com/gelest/sds/PEG0-HH07_GHS+US_English+US.pdf
