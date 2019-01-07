@@ -12,7 +12,7 @@ Neural Network that predicts flashpoint for organosilicon compounds.
   ### Background Lingo
   * Crash course on [SMILES String](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) notation
   * Get started with [RDKit](https://www.rdkit.org/docs/GettingStartedInPython.html)
-  * What's a [CAS Registry Number?](https://en.wikipedia.org/wiki/CAS_Registry_Number) We need to keep track in case we need to know which compounds are in a mixture or a certain concentration and use in chemical search engines.
+  * What's a [CAS Registry Number?](https://en.wikipedia.org/wiki/CAS_Registry_Number)
   * Benchmark data to replicate results from most research papers at [MoleculeNet](http://moleculenet.ai/).
   * Our method for converting IUPAC -> SMILES. [OPSIN Tool.](https://opsin.ch.cam.ac.uk/)
 
@@ -29,6 +29,9 @@ To commit new data please follow checklist bellow. It'll change with trial and e
 - [ ] Valide SMILES strings with RDKit.
 - [ ] Remove duplicate SMILES strings.
 - [ ] Commit new data with Last Name, First Name, Data Source, Website, Web Pages in title.
+
+## Credits
+* ChemNet KDD 2018 [paper.](https://www.kdd.org/kdd2018/accepted-papers/view/using-rule-based-labels-for-weak-supervised-learning-a-chemnet-for-transfer)
 
 ## Support
 <p float="left">
