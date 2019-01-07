@@ -20,15 +20,15 @@ Neural Network that predicts flashpoint for organosilicon compounds.
 When you're given a PDF of the data you need to get "creative". We've web scraped chemical data from chemical supplier websites. 
 To commit new data please follow checklist bellow. It'll change with trial and error, I promise :smirk:.
 
-- [ ] Format dataframe as below
+- [ ] Format dataframe as below.
 
 | SMILES :smiley:            |              Compound                 | Cas No        | FlashPoint (Celsius)  |
 | :-------------------------:|:-------------------------------------:|:-----------:  | :--------------------:|
 | C(C)(=O)NCCC[Si](OC)(OC)OC | (3-ACETAMIDOPROPYL)TRIMETHOXYSILANE   | 57757-66-1   | 35 |
 
 - [ ] Valide SMILES strings with RDKit.
-- [ ] Removed duplicate SMILES strings.
-- [ ] Commit new data with Last Name, First Name, Data Source, Website, Web Pages in title
+- [ ] Remove duplicate SMILES strings.
+- [ ] Commit new data with Last Name, First Name, Data Source, Website, Web Pages in title.
 
 ## Support
 <p float="left">
