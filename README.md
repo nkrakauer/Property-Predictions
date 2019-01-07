@@ -1,7 +1,7 @@
 ## Property-Predictions :zap::battery::zap:
-Neural Network that predicts flashpoint for organosilicon compounds.
+Neural Network that predicts flashpoint for organosilicon compounds. We convert images of molecules into 4 channel images encoded with basic chemical properties. 
 
-## Getting Started (UW Students) 
+## Getting Started (New UW Students) 
 * Create an account on Euler.
 * [Download MobaXterm](https://mobaxterm.mobatek.net/) if on Windows. MacOS has built in ssh client.
 * Clone repo on your euler account.
@@ -10,6 +10,7 @@ Neural Network that predicts flashpoint for organosilicon compounds.
 * Setup Conda env.
 * Change file paths to match yours.
 * Read papers on our [Mendeley](https://www.mendeley.com/?interaction_required=true) group. 
+* Replicate results on FreeSolv dataset.
   ### Background Lingo
   * Crash course on [SMILES String](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) notation
   * Get started with [RDKit](https://www.rdkit.org/docs/GettingStartedInPython.html)
