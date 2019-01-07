@@ -7,7 +7,8 @@ Neural Network that predicts flashpoint for organosilicon compounds.
 * Clone repo on your euler account.
 * Complete [GPU Usage on Euler](https://docs.google.com/presentation/d/1RmMtwF6Z7PBDQQaiICZhlcQqWpHeisHBgzWjIXjlAYA/edit?usp=sharing) tutorial.
 * If using mscdata node [read this too!](https://docs.google.com/presentation/d/1vzh9ySl76F0Tl92PmUWIGG095do95-cHOgoayfLBjVM/edit?usp=sharing)
-* Setup Conda env. 
+* Setup Conda env.
+* Change file paths to match yours.
 * Read papers on our [Mendeley](https://www.mendeley.com/?interaction_required=true) group. 
   ### Background Lingo
   * Crash course on [SMILES String](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) notation
