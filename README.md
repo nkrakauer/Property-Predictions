@@ -17,8 +17,8 @@ Neural Network that predicts flashpoint for organosilicon compounds.
   * Our method for converting IUPAC -> SMILES. [OPSIN Tool.](https://opsin.ch.cam.ac.uk/)
 
 ## Contributing Data
-When you're given a PDF of the data you need to get "creative". We've web scraped chemical data from chemical supplier websites. 
-To commit new data please follow checklist bellow. It'll change with trial and error, I promise :smirk:.
+We've web scraped chemical data from chemical supplier websites. 
+To commit new data please follow checklist bellow. It'll change with trial and error.
 
 - [ ] Format dataframe as below.
 
