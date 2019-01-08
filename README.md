@@ -17,6 +17,7 @@ Neural Network that predicts flashpoint for organosilicon compounds. We convert 
   * What's a [CAS Registry Number?](https://en.wikipedia.org/wiki/CAS_Registry_Number)
   * Benchmark data to replicate results from most research papers at [MoleculeNet](http://moleculenet.ai/).
   * Our method for converting IUPAC -> SMILES. [OPSIN Tool.](https://opsin.ch.cam.ac.uk/)
+  * Convert  molecular images -> SMILES. [OSRA Tool.](https://cactus.nci.nih.gov/osra/)
 
 ## Contributing Data
 We've web scraped chemical data from chemical supplier websites. 
