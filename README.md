@@ -36,7 +36,7 @@ To commit new data please follow checklist bellow. It'll change with trial and e
 - [ ] Commit new data with Last Name, First Name, Data Source, Website, Web Pages in title.
 
 ## Credits
-* ChemNet KDD 2018 [paper.](https://www.kdd.org/kdd2018/accepted-papers/view/using-rule-based-labels-for-weak-supervised-learning-a-chemnet-for-transfer)
+*  A large portion of code comes from ChemNet KDD 2018 [paper.](https://www.kdd.org/kdd2018/accepted-papers/view/using-rule-based-labels-for-weak-supervised-learning-a-chemnet-for-transfer)
 
 ## Support
 <p float="left">
