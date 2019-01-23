@@ -9,8 +9,10 @@ Neural Network that predicts flashpoint for organosilicon compounds. We convert 
 * If using mscdata node [read this too!](https://docs.google.com/presentation/d/1vzh9ySl76F0Tl92PmUWIGG095do95-cHOgoayfLBjVM/edit?usp=sharing)
 * Setup conda env.
 * add conda env to kernel.
-  * source activate myenv
-  * python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
+  ```
+  source activate myenv
+  python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
+  ```
 * Read papers on our [Mendeley](https://www.mendeley.com/?interaction_required=true) group. 
 * Replicate results on FreeSolv dataset.
   ### Background Lingo
