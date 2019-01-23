@@ -4,7 +4,7 @@ Neural Network that predicts flashpoint for organosilicon compounds. We convert 
 ## Getting Started (New UW Students) 
 * Create an account on Euler.
 * [Download MobaXterm](https://mobaxterm.mobatek.net/) if on Windows. MacOS has built in ssh client.
-* Clone repo on your euler account.
+* Clone repo on your euler account. New to git? [Click here.](http://rogerdudler.github.io/git-guide/)
 * Complete [GPU Usage on Euler](https://docs.google.com/presentation/d/1RmMtwF6Z7PBDQQaiICZhlcQqWpHeisHBgzWjIXjlAYA/edit?usp=sharing) tutorial.
 * If using mscdata node [read this too!](https://docs.google.com/presentation/d/1vzh9ySl76F0Tl92PmUWIGG095do95-cHOgoayfLBjVM/edit?usp=sharing)
 * Setup conda env.
