@@ -15,6 +15,7 @@ Neural Network that predicts flashpoint for organosilicon compounds. We convert 
 * Replicate results on FreeSolv dataset.
   ### Background Lingo
   * Crash course on [SMILES String](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) notation
+  * What is a [fingerprint?](http://www.daylight.com/dayhtml/doc/theory/theory.finger.html)
   * Get started with [RDKit](https://www.rdkit.org/docs/GettingStartedInPython.html)
   * What's a [CAS Registry Number?](https://en.wikipedia.org/wiki/CAS_Registry_Number)
   * Benchmark data to replicate results from most research papers at [MoleculeNet](http://moleculenet.ai/).
