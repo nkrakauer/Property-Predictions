@@ -39,8 +39,5 @@ To commit new data please follow checklist bellow. It'll change with trial and e
 *  A large portion of code comes from ChemNet KDD 2018 [paper.](https://www.kdd.org/kdd2018/accepted-papers/view/using-rule-based-labels-for-weak-supervised-learning-a-chemnet-for-transfer)
 
 ## Support
-<p float="left">
-<img src="http://wacc.wisc.edu/assets/images/sbel_logo.png" alt="alt text" width="300" height="100">
-<img src="http://wacc.wisc.edu/assets/images/skunkworks.png" alt="alt text" width="150" height="150">
- <img src="https://skunkworks.engr.wisc.edu/wp-content/uploads/sites/712/2016/03/MRSEC-UWM.jpg" alt="alt text" width="300" height="100">
-</p>
+* Informatics Skunkworks
+* Simulation Based Engineering Lab
