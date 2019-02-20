@@ -1,208 +1,194 @@
-No.,Compounds Name,Observed,Predicted,Status,nF,RDCHI,MATS1m,Mor02p,RTv
-1,Trichlorosilane,245,259.87 ,Training,0,1.225,0.995,5.542,2.201
-2,Dichlorosilane,236,236.75 ,Training,0,1.155,0.968,4.916,1.414
-3,Methyltrichlorosilane,276,280.43 ,Training,0,1.265,0.991,7.817,3.625
-4,Methyldichlorosilane,241,258.21 ,Training,0,1.225,0.963,7.407,2.743
-5,Dichloromethylmethyldichlorosilane,301,318.03 ,Training,0,1.509,0.998,9.327,5.304
-6,Ethyltrichlorosilane,295,298.85 ,Training,0,1.43,0.982,9.191,4.479
-7,Dimethyldichlorosilane,257,271.03 ,Training,0,1.265,0.955,9.47,3.601
-8,Dimethylchlorosilane,245,243.49 ,Training,0,1.225,0.907,9.216,2.85
-9,"1,1,1-Trifluoropropyltrichlorosilane",288,288.95 ,Training,3,1.902,1,9.195,4.989
-10,Allyltrichlorosilane,304,310.93 ,Training,0,1.604,0.983,8.936,4.663
-11,Methylvinyldichlorosilane,272,292.61 ,Training,0,1.577,0.953,9.173,4.02
-12,3-Chloropropyltrichlorosilane,357,332.47 ,Training,0,1.774,0.99,9.681,5.377
-13,Bromomethyldimethylchlorosilane,314,294.52 ,Training,0,1.43,0.964,10.163,4.474
-14,Chloromethyldimethylchlorosilane,295,285.47 ,Training,0,1.43,0.943,10.904,4.163
-15,Trimethylbromosilane,270,271.03 ,Training,0,1.265,0.94,10.721,3.855
-16,Trimethylchlorosilane,255,254.97 ,Training,0,1.265,0.902,11.112,3.512
-17,Trimethoxysilane,264,271.45 ,Training,0,1.698,0.889,6.979,3.886
-18,Trimethylsilane,204,216.63 ,Training,0,1.225,0.818,11.003,2.903
-19,Cyanoethylmethyldichlorosilane,333,322.84 ,Training,0,1.774,0.961,10.609,5.241
-20,Allylmethyldichlorosilane,300,299.10 ,Training,0,1.604,0.95,10.336,4.357
-21,3-Chloropropylmethyldichlorosilane,359,321.03 ,Training,0,1.774,0.962,11.071,4.942
-22,t-Butyltrichlorosilane,294,318.08 ,Training,0,1.549,0.964,12.039,5.68
-23,Isobutyltrichlorosilane,310,320.64 ,Training,0,1.689,0.964,9.97,5.541
-24,n-Butyltrichlorosilane,327,322.51 ,Training,0,1.774,0.964,10.876,5.056
-25,n-Propylmethyldichlorosilane,300,296.91 ,Training,0,1.604,0.937,11.038,4.443
-26,Bromomethyltrimethylsilane,289,280.26 ,Training,0,1.43,0.925,11.56,4.136
-27,Ethyldimethylchlorosilane,269,271.21 ,Training,0,1.43,0.897,12.052,4.109
-28,"1,3-Dichlorotetramethyldisiloxane",288,299.89 ,Training,0,1.733,0.925,7.44,5.113
-29,Dimethyldimethoxysilane,265,264.06 ,Training,0,1.575,0.872,10.448,3.756
-30,Methyltrimethoxysilane,284,275.27 ,Training,0,1.703,0.887,8.039,4.079
-31,Tetramethoxysilane,294,285.56 ,Training,0,1.816,0.899,6.665,4.293
-32,Tetramethylsilane,245,229.40 ,Training,0,1.265,0.827,12.759,3.248
-33,"(N,N-Dimethylamino)dimethylsilane",260,248.82 ,Training,0,1.475,0.838,11.039,3.887
-34,"1,1,3,3-Tetramethyldisiloxane",251,258.11 ,Training,0,1.654,0.843,9.054,3.986
-35,Tetramethyldisilazane,284,261.54 ,Training,0,1.654,0.833,11.558,4.152
-36,"1,3,5,7-Tetramethylcyclotetrasiloxane",304,307.18 ,Training,0,2.258,0.878,-1.083,6.097
-37,Cyclopentyltrichlorosilane,350,348.50 ,Training,0,1.951,0.967,11.846,6.245
-38,Trimethylsilyltrifluoroacetate,273,266.43 ,Training,3,1.946,0.943,10.363,4.258
-39,Cyclopentyldichlorosilane,316,330.83 ,Training,0,1.927,0.941,12.123,5.505
-40,Allyldimethylchlorosilane,278,287.87 ,Training,0,1.604,0.906,11.348,4.554
-41,n-Amyltrichlorosilane,303,337.69 ,Training,0,1.938,0.956,13.366,5.349
-42,3-Chloro-2-methylpropylmethyldichlorosilane,363,332.32 ,Training,0,1.833,0.955,10.388,6.059
-43,n-Butylmethyldichlorosilane,303,312.86 ,Training,0,1.774,0.93,12.087,5.029
-44,Methylvinyldimethoxysilane,277,283.49 ,Training,0,1.851,0.882,9.261,3.948
-45,Trimethylvinylsilane,239,251.75 ,Training,0,1.43,0.847,12.504,3.831
-46,Cyclotrimethylenedimethylsilane,268,269.02 ,Training,0,1.665,0.844,14.055,3.939
-47,Diethylmethylchlorosilane,288,290.04 ,Training,0,1.575,0.892,12.556,5.156
-48,Chloromethyldimethylethoxysilane,299,293.95 ,Training,0,1.737,0.901,10.78,4.66
-49,Ethyltrimethoxysilane,300,286.20 ,Training,0,1.816,0.884,8.193,4.553
-50,"(N,N-Dimethylamino)trimethylsilane",254,259.60 ,Training,0,1.509,0.842,12.222,4.357
-51,Bis(dimethylamino)methylsilane,270,273.46 ,Training,0,1.7,0.848,10.025,4.835
-52,Pentamethyldisiloxane,254,268.20 ,Training,0,1.689,0.846,9.143,4.636
-53,Phenyltriflurosilane,268,274.28 ,Training,3,2.072,0.96,10.075,3.78
-54,Phenyldichlorosilane,333,330.88 ,Training,0,2.048,0.968,10.44,4.25
-55,Phenylsilane,281,283.74 ,Training,0,1.857,0.888,10.629,3.464
-56,1-Hexenyltrichlorosilane,333,351.98 ,Training,0,2.097,0.959,14.956,5.396
-57,Bis(chloromethyl)tetramethyldisiloxane,346,323.38 ,Training,0,1.978,0.914,7.995,6.228
-58,N-Methyl-N-trimethylsilyltrifluoroacetamide,298,273.65 ,Training,3,1.984,0.93,11.321,4.979
-59,Propargyloxytrimethylsilane,300,287.40 ,Training,0,1.774,0.88,11.468,4.389
-60,Dimethyldiacetoxysilane,310,314.14 ,Training,0,2.042,0.915,9.178,4.709
-61,Divinyldimethylsilane,281,269.84 ,Training,0,1.575,0.863,12.152,4.273
-62,n-Hexyltrichlorosilane,358,352.36 ,Training,0,2.097,0.949,15.863,5.587
-63,Hexyltriflurosilane,266,270.00 ,Training,3,2.097,0.914,14.22,3.944
-64,n-Amylmethyldichlorosilane,308,326.25 ,Training,0,1.938,0.924,14.953,5.009
-65,Vinyldimethylethoxysilane,277,279.83 ,Training,0,1.737,0.866,11.214,4.394
-66,"1,1-Dimethyl-1-sila-2-oxacyclohexane",287,298.59 ,Training,0,1.876,0.864,13.936,4.925
-67,Allyloxytrimethylsilane,273,283.54 ,Training,0,1.774,0.866,11.983,4.386
-68,Acetoxymethyltrimethylsilane,293,295.97 ,Training,0,1.858,0.882,11.699,4.619
-69,Allyltrimethylsilane,280,268.92 ,Training,0,1.604,0.848,13.008,4.352
-70,Cyclotetramethylenedimethylsilane,288,284.11 ,Training,0,1.745,0.845,15.286,4.651
-71,Triethylchlorosilane,303,295.60 ,Training,0,1.703,0.888,12.665,5.072
-72,t-Butyldimethylchlorosilane,295,293.24 ,Training,0,1.549,0.888,14.179,5.421
-73,3-Chloropropyltrimethoxysilane,348,324.04 ,Training,0,2.1,0.913,10.162,5.198
-74,Trimethyl-n-propoxysilane,283,280.63 ,Training,0,1.774,0.853,12.509,4.438
-75,t-Butyldimethylsilanol,318,276.67 ,Training,0,1.549,0.852,14.717,4.933
-76,Dimethyldiethoxysilane,284,288.99 ,Training,0,1.887,0.869,8.448,4.869
-77,Triethylsilane,270,268.33 ,Training,0,1.698,0.83,13.052,4.355
-78,Hexylsilane,285,272.24 ,Training,0,1.84,0.825,14.878,3.725
-79,t-Butyldimethylsilane,251,265.47 ,Training,0,1.509,0.83,14.789,4.811
-80,Bis(dimethylamino)dimethylsilane,266,281.25 ,Training,0,1.717,0.851,10.415,5.306
-81,Hexamethylcyclotrisiloxane,305,303.37 ,Training,0,2.068,0.875,3.909,5.92
-82,Hexamethyldisilthiane,299,289.52 ,Training,0,1.733,0.862,10.57,5.608
-83,Hexamethyldisilane,272,263.93 ,Training,0,1.549,0.834,10.32,5.192
-84,Tris(dimethylamino)silane,298,290.77 ,Training,0,1.887,0.855,8.334,5.531
-85,Hexamethyltrisiloxane,293,297.83 ,Training,0,2.042,0.855,5.998,5.791
-86,p-Tolytrichlorosilane,365,365.12 ,Training,0,2.149,0.98,12.217,6.201
-87,Phenylmethyldichlorosilane,355,357.16 ,Training,0,2.203,0.955,11.59,6.094
-88,Phenylmethylchlorosilane,355,330.23 ,Training,0,2.048,0.93,11.776,5.196
-89,Trivinylmethylsilane,288,285.44 ,Training,0,1.703,0.876,11.769,4.679
-90,Cyclohexylmethyldichlorosilane,355,349.11 ,Training,0,2.072,0.928,12.895,6.713
-91,"1-(Trimethylsiloxy)-1,3-butadiene",298,301.92 ,Training,0,1.938,0.877,13.834,4.476
-92,2-Chloromethyl-3-trimethylsilyl-1-propene,316,310.31 ,Training,0,1.833,0.894,12.647,5.545
-93,n-Hexylmethyldichlorosilane,358,341.50 ,Training,0,2.097,0.919,17.436,5.238
-94,Vinylmethyldiethoxysilane,289,302.04 ,Training,0,1.992,0.878,8.322,5.245
-95,Ethyl(2-trimethylsilyl)acetate,308,311.54 ,Training,0,1.985,0.879,15.937,4.644
-96,Vinyldiethylmethylsilane,288,281.67 ,Training,0,1.703,0.848,13.193,4.973
-97,N-(Trimethylsilyl)morpholine,300,313.24 ,Training,0,2.072,0.867,11.691,5.56
-98,Bis(trimethylsilyl)carbodiimide,315,334.58 ,Training,0,2.063,0.867,25.353,4.935
-99,t-Butoxytrimethylsilane,287,283.94 ,Training,0,1.733,0.853,10.645,5.36
-100,Vinylpentamethyldisiloxane,285,292.80 ,Training,0,1.859,0.858,9.821,5.488
-101,Isobutyltrimethoxysilane,315,309.91 ,Training,0,2.028,0.879,10.517,5.323
-102,Methyltriethoxysilane,297,310.68 ,Training,0,2.122,0.879,8.897,5.185
-103,(Diethylamino)trimethylsilane,283,285.79 ,Training,0,1.787,0.844,10.758,5.509
-104,Bis(trimethylsilyl)methane,285,284.43 ,Training,0,1.733,0.833,12.852,5.638
-105,Heptamethylsiloxane,296,315.66 ,Training,3,2.587,0.894,6.738,7.692
-106,Phenylethyldichlorosilane,365,357.69 ,Training,0,2.18,0.952,12.976,6.1
-107,Phenyldimethylchlorosilane,334,336.13 ,Training,0,2.072,0.924,12.601,5.662
-108,"(N,N-Dimethylamino)triethylsilane",299,298.03 ,Training,0,1.872,0.844,11.298,6.091
-109,Tetravinylsilane,291,301.62 ,Training,0,1.816,0.886,11.231,5.359
-110,Phenyldimethylsilane,311,314.22 ,Training,0,2.048,0.883,13.15,4.964
-111,Ethyltriacetoxysilane,377,349.32 ,Training,0,2.402,0.929,8.033,5.79
-112,Cyclopentadienyltrimethylsilane,302,312.05 ,Training,0,1.951,0.871,13.654,5.61
-113,3-(Trimethylsilyl)cyclopentene,299,308.53 ,Training,0,1.951,0.858,14.113,5.617
-114,"(2,4-Pentadienyl)trimethylsilane",291,303.71 ,Training,0,1.938,0.861,15.656,4.821
-115,n-Octyltrichlorosilane,369,373.15 ,Training,0,2.4,0.938,18.648,5.668
-116,n-Heptylmethyldichlorosilane,339,352.64 ,Training,0,2.25,0.914,18.925,5.306
-117,Triethylacetoxysilane,314,313.27 ,Training,0,2.028,0.877,10.012,5.813
-118,Vinyltriethoxysilane,307,319.54 ,Training,0,2.206,0.886,6.762,5.746
-119,Vinyltriethylsilane,298,294.68 ,Training,0,1.816,0.848,12.736,5.668
-120,"1,3-Divinyltetramethyldisilazane",307,310.41 ,Training,0,1.978,0.86,11.142,6.168
-121,Tetraethoxysilane,323,328.27 ,Training,0,2.32,0.886,8.575,5.573
-122,Tetraethylsilane,299,290.38 ,Training,0,1.816,0.836,12.179,5.769
-123,n-Octylsilane,309,303.58 ,Training,0,2.15,0.83,18.175,4.139
-124,Aminoethylaminopropyltrimethoxysilane,369,349.35 ,Training,0,2.536,0.882,15.631,5.091
-125,Octamethyltrisiloxane,303,315.69 ,Training,0,2.129,0.856,7.214,6.732
-126,Octamethylcyclotetrasiloxane,330,324.89 ,Training,0,2.368,0.875,-1.516,7.355
-127,Octamethylcyclotetrasilazane,339,325.84 ,Training,0,2.368,0.856,-2.053,8.19
-128,Tetrakisdimethylsiloxysilane,340,370.80 ,Training,0,2.564,0.863,15.703,7.611
-129,p-Chlorophenyltrimethylsilane,322,344.36 ,Training,0,2.149,0.916,14.212,5.959
-130,Methylphenyldimethoxysilane,349,351.39 ,Training,0,2.432,0.899,12.191,5.995
-131,Phenyltrimethoxysilane,358,345.93 ,Training,0,2.355,0.91,11.615,5.656
-132,Trimethylphenylsilane,313,321.29 ,Training,0,2.072,0.881,13.65,5.472
-133,2-Cyanoethyltriethoxysilane,359,347.04 ,Training,0,2.446,0.896,8.429,6.348
-134,Cyclohexylmethyldimethoxysilane,343,338.05 ,Training,0,2.273,0.872,12.069,6.551
-135,3-Glycidoxypropyltrimethoxysilane,383,374.83 ,Training,0,2.821,0.898,15.33,5.434
-136,Di-t-butylmethylchlorosilane,342,320.46 ,Training,0,1.794,0.88,13.618,7.015
-137,Hexyltrimethoxysilane,335,341.23 ,Training,0,2.393,0.875,16.313,5.226
-138,Triisopropylsilane,310,302.27 ,Training,0,1.887,0.836,13.336,6.274
-139,Tri-n-propylsilane,316,311.18 ,Training,0,2.13,0.836,15.632,5.287
-140,(Diisopropylamino)trimethylsilane,301,301.30 ,Training,0,1.918,0.845,9.812,6.405
-141,1-Chlorononamethyltetrasiloxane,347,358.11 ,Training,0,2.487,0.884,6.773,7.908
-142,Propyltris(dimethylsiloxy)silane,323,347.11 ,Training,0,2.504,0.859,7.216,7.507
-143,Benzyltrimethylsilane,335,339.13 ,Training,0,2.235,0.878,15.368,6.012
-144,3-Methacryloxypropyltrimethoxysilane,365,369.30 ,Training,0,2.66,0.905,16.037,5.445
-145,"1,4-Divinyltetramethyldisilylethane",313,334.14 ,Training,0,2.138,0.854,18.204,6.326
-146,n-Octyldimethylchlorosilane,370,353.42 ,Training,0,2.4,0.878,21.374,5.246
-147,Bis(diethylamino)dimethylsilane,308,320.84 ,Training,0,2.185,0.851,4.188,7.677
-148,Decamethyltetrasiloxane,335,351.80 ,Training,0,2.487,0.861,8.105,7.809
-149,Decamethylcyclopentasiloxane,350,343.77 ,Training,0,2.648,0.875,-8.998,9.061
-150,"2-(3,4-epoxycyclohexyl)ethyltrimethoxysilane",419,395.60 ,Training,0,2.869,0.892,19.118,6.598
-151,n-Decylmethyldichlorosilane,393,387.16 ,Training,0,2.689,0.904,23.508,5.537
-152,Vinyltriethylsilane,318,294.71 ,Training,0,1.816,0.848,12.747,5.669
-153,Phenyltriethoxysilane,393,372.81 ,Training,0,2.669,0.9,9.548,7.191
-154,Diphenylsilane,371,375.59 ,Training,0,2.692,0.911,16.987,5.476
-155,Tetramethyltetravinylcyclotetrasilane,385,366.78 ,Training,0,2.7,0.892,-1.215,8.85
-156,n-Dodecyltrichlorosilane,435,417.54 ,Training,0,2.966,0.922,26.123,5.747
-157,Hexaethyldisiloxane,349,345.21 ,Training,0,2.352,0.849,10.013,7.968
-158,Dodecamethylpentasiloxane,352,369.48 ,Training,0,2.822,0.863,4.16,8.315
-159,Dodecamethylcyclohexasiloxane,366,362.73 ,Training,0,2.929,0.875,-12.899,10.056
-160,Methyldiphenylchlorosilane,411,402.38 ,Training,0,2.691,0.934,15.499,7.574
-161,n-Dodecylmethyldichlorosilane,416,410.51 ,Training,0,2.966,0.898,27.562,5.591
-162,Diphenyldimethoxysilane,394,399.41 ,Training,0,2.813,0.917,14.28,7.408
-163,Octyltriethoxysilane,373,385.67 ,Training,0,2.976,0.869,17.846,6.062
-164,Tetradecamethylhexasiloxane,375,385.63 ,Training,0,3.14,0.865,1.239,8.568
-165,n-Octadecyltrichlorosilane,466,475.85 ,Training,0,3.748,0.908,33.812,5.821
-166,Octadecamethyloctasiloxane,417,416.12 ,Training,0,3.74,0.868,-3.725,8.962
-167,Vinyltrichlorosilane,294,296.96 ,Test,0,1.43,0.993,7.988,4.168
-168,Ethylsilane,213,194.61 ,Test,0,1.155,0.8,8.567,2.28
-169,n-Propyltrichlorosilane,310,310.64 ,Test,0,1.604,0.972,9.75,4.842
-170,Trimethylfluorosilane,238,222.57 ,Test,1,1.265,0.873,10.786,3.027
-171,Dimethylvinylchlorosilane,268,272.40 ,Test,0,1.43,0.912,10.975,3.935
-172,Trimethylsilylisothiocyanate,308,282.38 ,Test,0,1.604,0.915,9.64,4.066
-173,Methoxytrimethylsilane,243,249.29 ,Test,0,1.43,0.853,11.3,3.634
-174,Diethylsilane,253,237.55 ,Test,0,1.509,0.82,11.979,3.03
-175,Tetraisocyanatosilane,323,344.38 ,Test,0,2.32,0.988,4.89,4.431
-176,sec-Amyltrichlorosilane,303,331.58 ,Test,0,1.817,0.956,11.384,5.847
-177,Vinyltrimethoxysilane,296,290.60 ,Test,0,1.816,0.896,8.296,4.552
-178,Ethoxytrimethylsilane,246,263.66 ,Test,0,1.604,0.853,10.97,4.086
-179,Phenyltrichlorosilane,364,357.96 ,Test,0,2.072,0.989,10.32,6.029
-180,Cyclohexyltrichlorosilane,358,362.71 ,Test,0,2.072,0.959,12.036,7.148
-181,1-Trimethylsilylpropyne,270,265.58 ,Test,0,1.604,0.863,11.424,3.844
-182,Hexyldichlorosilane,337,332.88 ,Test,0,2.067,0.923,15.654,4.804
-183,Allyltrimethoxysilane,319,300.93 ,Test,0,1.955,0.892,8.292,4.886
-184,3-Chloropropylmethyldimethoxysilane,318,317.62 ,Test,0,2.006,0.906,11.027,5.181
-185,n-Propyltrimethoxysilane,298,298.64 ,Test,0,1.955,0.881,9.726,4.749
-186,Hexamethyldisiloxane,270,276.46 ,Test,0,1.733,0.848,8.984,5.142
-187,Hexamethyldisilazane,281,281.49 ,Test,0,1.733,0.84,11.429,5.405
-188,Methyltriacetoxysilane,358,341.38 ,Test,0,2.329,0.933,8.076,5.302
-189,n-Heptyltrichlorosilane,337,363.67 ,Test,0,2.25,0.943,17.493,5.676
-190,Cyclopentamethylenedimethylsilane,303,300.28 ,Test,0,1.876,0.845,15.881,5.337
-191,(1-Methoxy-2-propoxy)trimethylsilane,293,302.40 ,Test,0,1.985,0.867,11.606,5.034
-192,Heptamethyldisilazane,300,289.49 ,Test,0,1.775,0.841,11.078,5.969
-193,Vinyltriacetoxysilane,361,350.67 ,Test,0,2.402,0.937,7.497,5.758
-194,(Cyclopentenyloxy)trimethylsilane,311,318.27 ,Test,0,2.119,0.873,13.153,5.282
-195,Tetramethyldivinyldisiloxane,292,305.68 ,Test,0,1.969,0.867,9.186,5.921
-196,Diethyldiethoxysilane,316,311.11 ,Test,0,2.084,0.866,9.239,5.81
-197,Tetramethyldiethoxysiloxane,311,319.41 ,Test,0,2.248,0.87,5.281,6.326
-198,p-Tolydimethylchlorosilane,340,344.22 ,Test,0,2.149,0.919,14.819,5.724
-199,n-(t-Butyldimethylsilyl)-n-methyl-trifluoroacetamide,325,301.29 ,Test,3,2.195,0.916,12.761,6.609
-200,Tri-n-propylchlorosilane,349,330.03 ,Test,0,2.122,0.88,14.339,5.921
-201,Tris(trimethylsiloxy)boron,315,347.95 ,Test,0,2.446,0.866,8.56,7.415
-202,1-Heptynyltrimethylsilane,315,332.46 ,Test,0,2.25,0.859,20.274,4.947
-203,Tristrimethylsiloxymethylsilane,336,351.03 ,Test,0,2.446,0.86,8.003,8.023
-204,Diphenyldichlorosilane,415,411.73 ,Test,0,2.691,0.961,14.979,7.669
-205,Tetra-n-propoxysilane,368,386.06 ,Test,0,2.793,0.879,19.678,6.441
-206,Diphenylmethylsilane,393,391.07 ,Test,0,2.701,0.907,15.379,7.363
-207,Hexadecamethylheptasiloxane,406,402.89 ,Test,0,3.445,0.867,-0.424,8.75
+Compounds Name,Observed,Predicted,Status,nF,RDCHI,MATS1m,Mor02p,RTv,smiles
+Trichlorosilane,-28.149999999999977,-13.279999999999973,Training,0,1.225,0.995,5.542000000000001,2.201,Cl[SiH](Cl)Cl
+Dichlorosilane,-37.14999999999998,-36.39999999999998,Training,0,1.155,0.968,4.916,1.4140000000000001,Cl[SiH2]Cl
+Methyltrichlorosilane,2.8500000000000227,7.28000000000003,Training,0,1.265,0.991,7.817,3.625,C[Si](Cl)(Cl)Cl
+Methyldichlorosilane,-32.14999999999998,-14.939999999999998,Training,0,1.225,0.963,7.407,2.7430000000000003,C[SiH](Cl)Cl
+Dichloromethylmethyldichlorosilane,27.850000000000023,44.879999999999995,Training,0,1.5090000000000001,0.998,9.327,5.303999999999999,ClC(Cl)[Si](Cl)(Cl)C
+Ethyltrichlorosilane,21.850000000000023,25.700000000000045,Training,0,1.43,0.982,9.191,4.479,C(C)[Si](Cl)(Cl)Cl
+Dimethyldichlorosilane,-16.149999999999977,-2.1200000000000045,Training,0,1.265,0.955,9.47,3.6010000000000004,C[Si](Cl)(Cl)C
+Dimethylchlorosilane,-28.149999999999977,-29.659999999999968,Training,0,1.225,0.907,9.216000000000001,2.85,C[SiH](Cl)C
+"1,1,1-Trifluoropropyltrichlorosilane",14.850000000000023,15.800000000000011,Training,3,1.902,1.0,9.195,4.989,FC(C(C)[Si](Cl)(Cl)Cl)(F)F
+Allyltrichlorosilane,30.850000000000023,37.78000000000003,Training,0,1.604,0.983,8.936,4.663,C(C=C)[Si](Cl)(Cl)Cl
+Methylvinyldichlorosilane,-1.1499999999999773,19.460000000000036,Training,0,1.577,0.953,9.173,4.02,CC=C[SiH](Cl)Cl
+3-Chloropropyltrichlorosilane,83.85000000000002,59.32000000000005,Training,0,1.774,0.99,9.681000000000001,5.377000000000001,ClCCC[Si](Cl)(Cl)Cl
+Bromomethyldimethylchlorosilane,40.85000000000002,21.370000000000005,Training,0,1.43,0.9640000000000001,10.163,4.474,BrC[Si](Cl)(C)C
+Chloromethyldimethylchlorosilane,21.850000000000023,12.32000000000005,Training,0,1.43,0.943,10.904000000000002,4.163,ClC[Si](Cl)(C)C
+Trimethylbromosilane,-3.1499999999999773,-2.1200000000000045,Training,0,1.265,0.94,10.720999999999998,3.855,C[Si](Br)(C)C
+Trimethylchlorosilane,-18.149999999999977,-18.17999999999998,Training,0,1.265,0.902,11.112,3.512,C[Si](Cl)(C)C
+Trimethoxysilane,-9.149999999999977,-1.6999999999999886,Training,0,1.6980000000000002,0.889,6.979,3.886,CO[SiH](OC)OC
+Trimethylsilane,-69.14999999999998,-56.51999999999998,Training,0,1.225,0.818,11.003,2.903,C[SiH](C)C
+Cyanoethylmethyldichlorosilane,59.85000000000002,49.69,Training,0,1.774,0.961,10.609000000000002,5.2410000000000005,C(#N)CC[Si](Cl)(Cl)C
+Allylmethyldichlorosilane,26.850000000000023,25.950000000000045,Training,0,1.604,0.95,10.335999999999999,4.357,C(C=C)C[SiH](Cl)Cl
+3-Chloropropylmethyldichlorosilane,85.85000000000002,47.879999999999995,Training,0,1.774,0.9620000000000001,11.071,4.942,ClCCC[Si](Cl)(Cl)C
+t-Butyltrichlorosilane,20.850000000000023,44.93000000000001,Training,0,1.5490000000000002,0.9640000000000001,12.039000000000001,5.68,C(C)(C)(C)[Si](Cl)(Cl)Cl
+Isobutyltrichlorosilane,36.85000000000002,47.49000000000001,Training,0,1.689,0.9640000000000001,9.97,5.541,C(C(C)C)[Si](Cl)(Cl)Cl
+n-Butyltrichlorosilane,53.85000000000002,49.360000000000014,Training,0,1.774,0.9640000000000001,10.876,5.056,C(CCC)[Si](Cl)(Cl)Cl
+n-Propylmethyldichlorosilane,26.850000000000023,23.760000000000048,Training,0,1.604,0.937,11.038,4.4430000000000005,C(CC)[Si](Cl)(Cl)C
+Bromomethyltrimethylsilane,15.850000000000023,7.110000000000014,Training,0,1.43,0.925,11.56,4.136,BrC[Si](C)(C)C
+Ethyldimethylchlorosilane,-4.149999999999977,-1.9399999999999977,Training,0,1.43,0.897,12.052,4.109,C(C)[Si](Cl)(C)C
+"1,3-Dichlorotetramethyldisiloxane",14.850000000000023,26.74000000000001,Training,0,1.733,0.925,7.44,5.113,Cl[Si](O[Si](Cl)(C)C)(C)C
+Dimethyldimethoxysilane,-8.149999999999977,-9.089999999999975,Training,0,1.575,0.872,10.448,3.7560000000000002,C[Si](OC)(OC)C
+Methyltrimethoxysilane,10.850000000000023,2.1200000000000045,Training,0,1.703,0.887,8.039,4.079,C[Si](OC)(OC)OC
+Tetramethoxysilane,20.850000000000023,12.410000000000025,Training,0,1.8159999999999998,0.899,6.665,4.293,CO[Si](OC)(OC)OC
+Tetramethylsilane,-28.149999999999977,-43.74999999999997,Training,0,1.265,0.8270000000000001,12.759,3.248,C[Si](C)(C)C
+"(N,N-Dimethylamino)dimethylsilane",-13.149999999999977,-24.329999999999984,Training,0,1.475,0.838,11.039000000000001,3.887,CN(C)[SiH](C)C
+"1,1,3,3-Tetramethyldisiloxane",-22.149999999999977,-15.039999999999964,Training,0,1.6540000000000001,0.843,9.054,3.986,C[SiH](O[SiH](C)C)C
+Tetramethyldisilazane,10.850000000000023,-11.609999999999957,Training,0,1.6540000000000001,0.833,11.558,4.152,CN([Si](C)(C)C)[SiH3]
+Cyclopentyltrichlorosilane,76.85000000000002,75.35000000000002,Training,0,1.9509999999999998,0.9670000000000001,11.845999999999998,6.245,C1(CCCC1)[Si](Cl)(Cl)Cl
+Trimethylsilyltrifluoroacetate,-0.14999999999997726,-6.71999999999997,Training,3,1.946,0.943,10.363,4.258,C[Si](C)(C)OC(C(F)(F)F)=O
+Cyclopentyldichlorosilane,42.85000000000002,57.68000000000001,Training,0,1.9269999999999998,0.941,12.123,5.505,C1(CCCC1)[SiH](Cl)Cl
+Allyldimethylchlorosilane,4.850000000000023,14.720000000000027,Training,0,1.604,0.9059999999999999,11.347999999999999,4.553999999999999,C(C=C)[Si](Cl)(C)C
+3-Chloro-2-methylpropylmethyldichlorosilane,89.85000000000002,59.170000000000016,Training,0,1.8330000000000002,0.955,10.388,6.059,ClCC(C[Si](Cl)(Cl)C)C
+n-Butylmethyldichlorosilane,29.850000000000023,39.710000000000036,Training,0,1.774,0.93,12.087,5.029,C(CCC)[Si](Cl)(Cl)C
+Methylvinyldimethoxysilane,3.8500000000000227,10.340000000000032,Training,0,1.851,0.882,9.261000000000001,3.948,CC=C[SiH](OC)OC
+Trimethylvinylsilane,-34.14999999999998,-21.399999999999977,Training,0,1.43,0.847,12.504000000000001,3.8310000000000004,CC(=C(C)C)[SiH3]
+Diethylmethylchlorosilane,14.850000000000023,16.890000000000043,Training,0,1.575,0.892,12.556,5.156000000000001,C(C)[Si](Cl)(C)CC
+Chloromethyldimethylethoxysilane,25.850000000000023,20.80000000000001,Training,0,1.7369999999999999,0.9009999999999999,10.78,4.66,ClC[Si](OCC)(C)C
+Ethyltrimethoxysilane,26.850000000000023,13.050000000000011,Training,0,1.8159999999999998,0.884,8.193,4.553,C(C)[Si](OC)(OC)OC
+"(N,N-Dimethylamino)trimethylsilane",-19.149999999999977,-13.549999999999955,Training,0,1.5090000000000001,0.8420000000000001,12.222000000000001,4.357,CN(C)[Si](C)(C)C
+Bis(dimethylamino)methylsilane,-3.1499999999999773,0.3100000000000023,Training,0,1.7,0.848,10.025,4.835,CN(C)C(N(C)C)[SiH3]
+Pentamethyldisiloxane,-19.149999999999977,-4.949999999999989,Training,0,1.689,0.846,9.142999999999999,4.636,C[SiH](O[Si](C)(C)C)C
+Phenyldichlorosilane,59.85000000000002,57.73000000000002,Training,0,2.048,0.968,10.44,4.25,C1(=CC=CC=C1)[SiH](Cl)Cl
+Phenylsilane,7.850000000000023,10.590000000000032,Training,0,1.857,0.888,10.629000000000001,3.464,C1(=CC=CC=C1)[SiH3]
+1-Hexenyltrichlorosilane,59.85000000000002,78.83000000000004,Training,0,2.097,0.9590000000000001,14.956,5.396,C(=CCCCC)[Si](Cl)(Cl)Cl
+Bis(chloromethyl)tetramethyldisiloxane,72.85000000000002,50.23000000000002,Training,0,1.9780000000000002,0.914,7.995,6.228,ClC[Si](O[Si](C)(C)C)(C)CCl
+N-Methyl-N-trimethylsilyltrifluoroacetamide,24.850000000000023,0.5,Training,3,1.984,0.93,11.321,4.979,CN(C(C(F)(F)F)=O)[Si](C)(C)C
+Propargyloxytrimethylsilane,26.850000000000023,14.25,Training,0,1.774,0.88,11.468,4.388999999999999,C(C#C)O[Si](C)(C)C
+Dimethyldiacetoxysilane,36.85000000000002,40.99000000000001,Training,0,2.042,0.915,9.177999999999999,4.709,C[Si](OC(C)=O)(OC(C)=O)C
+Divinyldimethylsilane,7.850000000000023,-3.3100000000000023,Training,0,1.575,0.863,12.152000000000001,4.273,C(=C)[Si](C)(C)C=C
+n-Hexyltrichlorosilane,84.85000000000002,79.21000000000004,Training,0,2.097,0.9490000000000001,15.863,5.587000000000001,C(CCCCC)[Si](Cl)(Cl)Cl
+Vinyldimethylethoxysilane,3.8500000000000227,6.680000000000007,Training,0,1.7369999999999999,0.866,11.214,4.394,C(=C)[Si](OCC)(C)C
+"1,1-Dimethyl-1-sila-2-oxacyclohexane",13.850000000000023,25.439999999999998,Training,0,1.876,0.8640000000000001,13.936,4.925,C[Si]1(OCCCC1)C
+Allyloxytrimethylsilane,-0.14999999999997726,10.390000000000043,Training,0,1.774,0.866,11.982999999999999,4.386,C(C=C)O[Si](C)(C)C
+Acetoxymethyltrimethylsilane,19.850000000000023,22.82000000000005,Training,0,1.858,0.882,11.699000000000002,4.619,C(C)(=O)OC[Si](C)(C)C
+Allyltrimethylsilane,6.850000000000023,-4.229999999999961,Training,0,1.604,0.848,13.008,4.352,C(C=C)[Si](C)(C)C
+Triethylchlorosilane,29.850000000000023,22.450000000000045,Training,0,1.703,0.888,12.665,5.072,C(C)[Si](Cl)(CC)CC
+t-Butyldimethylchlorosilane,21.850000000000023,20.090000000000032,Training,0,1.5490000000000002,0.888,14.179,5.421,C(C)(C)(C)[Si](Cl)(C)C
+3-Chloropropyltrimethoxysilane,74.85000000000002,50.89000000000004,Training,0,2.1,0.9129999999999999,10.162,5.1979999999999995,ClCCC[Si](OC)(OC)OC
+Trimethyl-n-propoxysilane,9.850000000000023,7.480000000000018,Training,0,1.774,0.853,12.509,4.438,C[Si](OCCC)(C)C
+t-Butyldimethylsilanol,44.85000000000002,3.5200000000000387,Training,0,1.5490000000000002,0.852,14.717,4.933,C(C)(C)(C)[Si](O)(C)C
+Dimethyldiethoxysilane,10.850000000000023,15.840000000000032,Training,0,1.8869999999999998,0.8690000000000001,8.448,4.869,C[Si](OCC)(OCC)C
+Triethylsilane,-3.1499999999999773,-4.819999999999993,Training,0,1.6980000000000002,0.83,13.052,4.355,C(C)[SiH](CC)CC
+Hexylsilane,11.850000000000023,-0.9099999999999682,Training,0,1.84,0.825,14.878,3.725,C(CCCCC)[SiH3]
+t-Butyldimethylsilane,-22.149999999999977,-7.67999999999995,Training,0,1.5090000000000001,0.83,14.789000000000001,4.811,C(C)(C)(C)[SiH](C)C
+Bis(dimethylamino)dimethylsilane,-7.149999999999977,8.100000000000023,Training,0,1.7169999999999999,0.851,10.415,5.306,CN(C)[Si](C)(C)N(C)C
+Hexamethylcyclotrisiloxane,31.850000000000023,30.220000000000027,Training,0,2.068,0.875,3.909,5.92,C[Si]1(O[Si](O[Si](O1)(C)C)(C)C)C
+Hexamethyldisilthiane,25.850000000000023,16.370000000000005,Training,0,1.733,0.862,10.57,5.608,C[Si](S[Si](C)(C)C)(C)C
+Hexamethyldisilane,-1.1499999999999773,-9.21999999999997,Training,0,1.5490000000000002,0.8340000000000001,10.32,5.192,C[Si]([Si](C)(C)C)(C)C
+Tris(dimethylamino)silane,24.850000000000023,17.620000000000005,Training,0,1.8869999999999998,0.855,8.334,5.531000000000001,CN(C)[SiH](N(C)C)N(C)C
+Hexamethyltrisiloxane,19.850000000000023,24.680000000000007,Training,0,2.042,0.855,5.997999999999999,5.791,C[Si](O[SiH2]O[Si](C)(C)C)(C)C
+Phenylmethyldichlorosilane,81.85000000000002,84.01000000000005,Training,0,2.2030000000000003,0.955,11.59,6.093999999999999,C1(=CC=CC=C1)C[SiH](Cl)Cl
+Phenylmethylchlorosilane,81.85000000000002,57.08000000000004,Training,0,2.048,0.93,11.776,5.196000000000001,C1(=CC=CC=C1)C[SiH2]Cl
+Trivinylmethylsilane,14.850000000000023,12.29000000000002,Training,0,1.703,0.8759999999999999,11.769,4.678999999999999,C(=C)C(C=C)(C=C)[SiH3]
+Cyclohexylmethyldichlorosilane,81.85000000000002,75.96000000000004,Training,0,2.072,0.9279999999999999,12.895,6.712999999999999,C1(CCCCC1)C[SiH](Cl)Cl
+"1-(Trimethylsiloxy)-1,3-butadiene",24.850000000000023,28.77000000000004,Training,0,1.9380000000000002,0.877,13.834000000000001,4.476,C[Si](OC=CC=C)(C)C
+2-Chloromethyl-3-trimethylsilyl-1-propene,42.85000000000002,37.160000000000025,Training,0,1.8330000000000002,0.894,12.647,5.545,ClCC(=C)C[Si](C)(C)C
+n-Hexylmethyldichlorosilane,84.85000000000002,68.35000000000002,Training,0,2.097,0.919,17.436,5.2379999999999995,C(CCCCC)[Si](Cl)(Cl)C
+Vinylmethyldiethoxysilane,15.850000000000023,28.890000000000043,Training,0,1.992,0.878,8.322000000000001,5.245,C(=C)C[SiH](OCC)OCC
+Vinyldiethylmethylsilane,14.850000000000023,8.520000000000039,Training,0,1.703,0.848,13.193,4.973,C(=C)[Si](C)(CC)CC
+N-(Trimethylsilyl)morpholine,26.850000000000023,40.09000000000003,Training,0,2.072,0.867,11.690999999999999,5.56,C[Si](N1CCOCC1)(C)C
+Bis(trimethylsilyl)carbodiimide,41.85000000000002,61.43000000000001,Training,0,2.063,0.867,25.353,4.935,C[Si](C)(C)N=C=N[Si](C)(C)C
+t-Butoxytrimethylsilane,13.850000000000023,10.79000000000002,Training,0,1.733,0.853,10.645,5.36,C(C)(C)(C)O[Si](C)(C)C
+Vinylpentamethyldisiloxane,11.850000000000023,19.650000000000034,Training,0,1.859,0.858,9.821,5.4879999999999995,C(=C)[Si](O[Si](C)(C)C)(C)C
+Isobutyltrimethoxysilane,41.85000000000002,36.76000000000005,Training,0,2.028,0.879,10.517000000000001,5.3229999999999995,C(C(C)C)[Si](OC)(OC)OC
+Methyltriethoxysilane,23.850000000000023,37.53000000000003,Training,0,2.122,0.879,8.897,5.185,C[Si](OCC)(OCC)OCC
+(Diethylamino)trimethylsilane,9.850000000000023,12.640000000000043,Training,0,1.787,0.8440000000000001,10.758,5.5089999999999995,C(C)N(CC)[Si](C)(C)C
+Bis(trimethylsilyl)methane,11.850000000000023,11.28000000000003,Training,0,1.733,0.833,12.852,5.638,C[Si](C)(C)C[Si](C)(C)C
+Phenylethyldichlorosilane,91.85000000000002,84.54000000000002,Training,0,2.18,0.9520000000000001,12.975999999999999,6.1,C1(=CC=CC=C1)CC[SiH](Cl)Cl
+Phenyldimethylchlorosilane,60.85000000000002,62.98000000000002,Training,0,2.072,0.924,12.600999999999999,5.662000000000001,C1(=CC=CC=C1)[Si](Cl)(C)C
+"(N,N-Dimethylamino)triethylsilane",25.850000000000023,24.879999999999995,Training,0,1.8719999999999999,0.8440000000000001,11.298,6.091,CN(C)[Si](CC)(CC)CC
+Tetravinylsilane,17.850000000000023,28.470000000000027,Training,0,1.8159999999999998,0.8859999999999999,11.231,5.359,C(=C)[Si](C=C)(C=C)C=C
+Phenyldimethylsilane,37.85000000000002,41.07000000000005,Training,0,2.048,0.883,13.15,4.9639999999999995,C1(=CC=CC=C1)[SiH](C)C
+Ethyltriacetoxysilane,103.85000000000002,76.17000000000002,Training,0,2.4019999999999997,0.929,8.033,5.79,C(C)[Si](OC(C)=O)(OC(C)=O)OC(C)=O
+Cyclopentadienyltrimethylsilane,28.850000000000023,38.900000000000034,Training,0,1.9509999999999998,0.871,13.654000000000002,5.61,C1(C=CC=C1)[Si](C)(C)C
+3-(Trimethylsilyl)cyclopentene,25.850000000000023,35.379999999999995,Training,0,1.9509999999999998,0.858,14.113,5.617000000000001,C[Si](C1C=CCC1)(C)C
+"(2,4-Pentadienyl)trimethylsilane",17.850000000000023,30.560000000000002,Training,0,1.9380000000000002,0.861,15.655999999999999,4.821000000000001,C(C=CC=C)[Si](C)(C)C
+n-Octyltrichlorosilane,95.85000000000002,100.0,Training,0,2.4,0.938,18.648,5.667999999999999,C(CCCCCCC)[Si](Cl)(Cl)Cl
+n-Heptylmethyldichlorosilane,65.85000000000002,79.49000000000001,Training,0,2.25,0.914,18.925,5.306,C(CCCCCC)[Si](Cl)(Cl)C
+Triethylacetoxysilane,40.85000000000002,40.120000000000005,Training,0,2.028,0.877,10.012,5.813,C(C)C(C(=O)O[SiH3])(CC)CC
+Vinyltriethoxysilane,33.85000000000002,46.39000000000004,Training,0,2.206,0.8859999999999999,6.7620000000000005,5.746,C(=C)[Si](OCC)(OCC)OCC
+Vinyltriethylsilane,24.850000000000023,21.53000000000003,Training,0,1.8159999999999998,0.848,12.735999999999999,5.667999999999999,C(=C)[Si](CC)(CC)CC
+"1,3-Divinyltetramethyldisilazane",33.85000000000002,37.26000000000005,Training,0,1.9780000000000002,0.86,11.142000000000001,6.167999999999999,C(=C)[Si](N[Si](C=C)(C)C)(C)C
+Tetraethoxysilane,49.85000000000002,55.120000000000005,Training,0,2.32,0.8859999999999999,8.575,5.5729999999999995,C(C)O[Si](OCC)(OCC)OCC
+Tetraethylsilane,25.850000000000023,17.230000000000018,Training,0,1.8159999999999998,0.836,12.179,5.769,C(C)[Si](CC)(CC)CC
+n-Octylsilane,35.85000000000002,30.430000000000007,Training,0,2.15,0.83,18.175,4.138999999999999,C(CCCCCCC)[SiH3]
+Aminoethylaminopropyltrimethoxysilane,95.85000000000002,76.20000000000005,Training,0,2.536,0.882,15.630999999999998,5.091,NCCNCCC[Si](OC)(OC)OC
+Octamethyltrisiloxane,29.850000000000023,42.54000000000002,Training,0,2.129,0.856,7.2139999999999995,6.732,C[Si](O[Si](O[Si](C)(C)C)(C)C)(C)C
+Octamethylcyclotetrasiloxane,56.85000000000002,51.74000000000001,Training,0,2.3680000000000003,0.875,-1.516,7.355,C[Si]1(O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)C
+Octamethylcyclotetrasilazane,65.85000000000002,52.69,Training,0,2.3680000000000003,0.856,-2.053,8.19,C[Si]1(N[Si](N[Si](N[Si](N1)(C)C)(C)C)(C)C)C
+Tetrakisdimethylsiloxysilane,66.85000000000002,97.65000000000003,Training,0,2.5639999999999996,0.863,15.703,7.611000000000001,C[SiH](O[Si](O[SiH](C)C)(O[SiH](C)C)O[SiH](C)C)C
+p-Chlorophenyltrimethylsilane,48.85000000000002,71.21000000000004,Training,0,2.149,0.9159999999999999,14.212,5.959,ClC1=CC=C(C=C1)[Si](C)(C)C
+Methylphenyldimethoxysilane,75.85000000000002,78.24000000000001,Training,0,2.432,0.899,12.190999999999999,5.995,C[Si](OC)(OC)C1=CC=CC=C1
+Phenyltrimethoxysilane,84.85000000000002,72.78000000000003,Training,0,2.355,0.91,11.615,5.656000000000001,C1(=CC=CC=C1)[Si](OC)(OC)OC
+Trimethylphenylsilane,39.85000000000002,48.14000000000004,Training,0,2.072,0.8809999999999999,13.65,5.472,C[Si](C1=CC=CC=C1)(C)C
+2-Cyanoethyltriethoxysilane,85.85000000000002,73.89000000000004,Training,0,2.4459999999999997,0.8959999999999999,8.429,6.348,C(#N)CC[Si](OCC)(OCC)OCC
+Cyclohexylmethyldimethoxysilane,69.85000000000002,64.90000000000003,Training,0,2.273,0.872,12.069,6.551,C1(CCCCC1)C[SiH](OC)OC
+3-Glycidoxypropyltrimethoxysilane,109.85000000000002,101.68,Training,0,2.821,0.898,15.33,5.434,C(C1CO1)OCCC[Si](OC)(OC)OC
+Di-t-butylmethylchlorosilane,68.85000000000002,47.31,Training,0,1.794,0.88,13.618,7.015,C(C)(C)(C)[Si](Cl)(C)C(C)(C)C
+Hexyltrimethoxysilane,61.85000000000002,68.08000000000004,Training,0,2.3930000000000002,0.875,16.313,5.226,C(CCCCC)[Si](OC)(OC)OC
+Triisopropylsilane,36.85000000000002,29.120000000000005,Training,0,1.8869999999999998,0.836,13.335999999999999,6.274,C(C)(C)[SiH](C(C)C)C(C)C
+Tri-n-propylsilane,42.85000000000002,38.03000000000003,Training,0,2.13,0.836,15.632,5.287000000000001,C(CC)[SiH](CCC)CCC
+(Diisopropylamino)trimethylsilane,27.850000000000023,28.150000000000034,Training,0,1.9180000000000001,0.845,9.812000000000001,6.405,C(C)(C)N(C(C)C)[Si](C)(C)C
+1-Chlorononamethyltetrasiloxane,73.85000000000002,84.96000000000004,Training,0,2.487,0.884,6.773,7.9079999999999995,Cl[Si](O[Si](O[Si](O[Si](C)(C)C)(C)C)(C)C)(C)C
+Propyltris(dimethylsiloxy)silane,49.85000000000002,73.96000000000004,Training,0,2.504,0.8590000000000001,7.216,7.507000000000001,C(CC)[Si](O[SiH](C)C)(O[SiH](C)C)O[SiH](C)C
+Benzyltrimethylsilane,61.85000000000002,65.98000000000002,Training,0,2.235,0.878,15.368,6.0120000000000005,C(C1=CC=CC=C1)[Si](C)(C)C
+3-Methacryloxypropyltrimethoxysilane,91.85000000000002,96.15000000000003,Training,0,2.66,0.905,16.037,5.445,C(C(=C)C)(=O)OCCC[Si](OC)(OC)OC
+n-Octyldimethylchlorosilane,96.85000000000002,80.27000000000004,Training,0,2.4,0.878,21.374000000000002,5.246,C(CCCCCCC)[Si](Cl)(C)C
+Bis(diethylamino)dimethylsilane,34.85000000000002,47.69,Training,0,2.185,0.851,4.188,7.6770000000000005,C(C)N(CC)[Si](C)(C)N(CC)CC
+Decamethyltetrasiloxane,61.85000000000002,78.65000000000003,Training,0,2.487,0.861,8.105,7.809,C[Si](O[Si](O[Si](O[Si](C)(C)C)(C)C)(C)C)(C)C
+Decamethylcyclopentasiloxane,76.85000000000002,70.62,Training,0,2.648,0.875,-8.998,9.061,C[Si]1(O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)C
+"2-(3,4-epoxycyclohexyl)ethyltrimethoxysilane",145.85000000000002,122.45000000000005,Training,0,2.8689999999999998,0.892,19.118,6.598,C1(CC2C(CC1)O2)CC[Si](OC)(OC)OC
+n-Decylmethyldichlorosilane,119.85000000000002,114.01000000000005,Training,0,2.6889999999999996,0.904,23.508000000000003,5.537000000000001,C(CCCCCCCCC)[Si](Cl)(Cl)C
+Vinyltriethylsilane,44.85000000000002,21.560000000000002,Training,0,1.8159999999999998,0.848,12.747,5.669,C(=C)[Si](CC)(CC)CC
+Phenyltriethoxysilane,119.85000000000002,99.66000000000003,Training,0,2.6689999999999996,0.9,9.548,7.191,C1(=CC=CC=C1)[Si](OCC)(OCC)OCC
+Diphenylsilane,97.85000000000002,102.44,Training,0,2.6919999999999997,0.9109999999999999,16.987000000000002,5.476,C1(=CC=CC=C1)[SiH2]C1=CC=CC=C1
+Tetramethyltetravinylcyclotetrasilane,111.85000000000002,93.63,Training,0,2.7,0.892,-1.215,8.85,C[Si]1([Si]([Si]([Si]1(C=C)C)(C=C)C)(C=C)C)C=C
+n-Dodecyltrichlorosilane,161.85000000000002,144.39000000000004,Training,0,2.966,0.922,26.123,5.747000000000001,C(CCCCCCCCCCC)[Si](Cl)(Cl)Cl
+Hexaethyldisiloxane,75.85000000000002,72.06,Training,0,2.352,0.8490000000000001,10.013,7.968,C(C)[Si](O[Si](CC)(CC)CC)(CC)CC
+Dodecamethylpentasiloxane,78.85000000000002,96.33000000000004,Training,0,2.822,0.863,4.16,8.315,C[Si](O[Si](O[Si](O[Si](O[Si](C)(C)C)(C)C)(C)C)(C)C)(C)C
+Dodecamethylcyclohexasiloxane,92.85000000000002,89.58000000000004,Training,0,2.929,0.875,-12.899000000000001,10.056000000000001,C[Si]1(O[Si](O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)(C)C)C
+Methyldiphenylchlorosilane,137.85000000000002,129.23000000000002,Training,0,2.6910000000000003,0.934,15.499,7.574,C[Si](Cl)(C1=CC=CC=C1)C1=CC=CC=C1
+n-Dodecylmethyldichlorosilane,142.85000000000002,137.36,Training,0,2.966,0.898,27.561999999999998,5.591,C(CCCCCCCCCCC)[Si](Cl)(Cl)C
+Diphenyldimethoxysilane,120.85000000000002,126.26000000000005,Training,0,2.813,0.917,14.28,7.4079999999999995,C1(=CC=CC=C1)[Si](OC)(OC)C1=CC=CC=C1
+Octyltriethoxysilane,99.85000000000002,112.52000000000004,Training,0,2.9760000000000004,0.8690000000000001,17.846,6.062,C(CCCCCCC)[Si](OCC)(OCC)OCC
+Tetradecamethylhexasiloxane,101.85000000000002,112.48000000000002,Training,0,3.14,0.865,1.239,8.568,C[Si](O[Si](O[Si](O[Si](O[Si](O[Si](C)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C
+n-Octadecyltrichlorosilane,192.85000000000002,202.70000000000005,Training,0,3.748,0.9079999999999999,33.812,5.821000000000001,C(CCCCCCCCCCCCCCCCC)[Si](Cl)(Cl)Cl
+Octadecamethyloctasiloxane,143.85000000000002,142.97000000000003,Training,0,3.74,0.868,-3.725,8.962,C[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](C)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C
+Vinyltrichlorosilane,20.850000000000023,23.810000000000002,Test,0,1.43,0.993,7.9879999999999995,4.168,C(=C)[Si](Cl)(Cl)Cl
+Ethylsilane,-60.14999999999998,-78.53999999999996,Test,0,1.155,0.8,8.567,2.28,C(C)[SiH3]
+n-Propyltrichlorosilane,36.85000000000002,37.49000000000001,Test,0,1.604,0.972,9.75,4.842,C(CC)[Si](Cl)(Cl)Cl
+Trimethylfluorosilane,-35.14999999999998,-50.579999999999984,Test,1,1.265,0.873,10.786,3.0269999999999997,C[Si](F)(C)C
+Dimethylvinylchlorosilane,-5.149999999999977,-0.75,Test,0,1.43,0.912,10.975,3.935,CC(=C[SiH2]Cl)C
+Trimethylsilylisothiocyanate,34.85000000000002,9.230000000000018,Test,0,1.604,0.915,9.64,4.066,C[Si](C)(C)N=C=S
+Methoxytrimethylsilane,-30.149999999999977,-23.859999999999985,Test,0,1.43,0.853,11.3,3.634,CO[Si](C)(C)C
+Diethylsilane,-20.149999999999977,-35.599999999999966,Test,0,1.5090000000000001,0.82,11.979000000000001,3.03,C(C)[SiH2]CC
+Tetraisocyanatosilane,49.85000000000002,71.23000000000002,Test,0,2.32,0.988,4.89,4.431,N(=C=O)[Si](N=C=O)(N=C=O)N=C=O
+sec-Amyltrichlorosilane,29.850000000000023,58.43000000000001,Test,0,1.817,0.956,11.384,5.847,C(C)(CCC)[Si](Cl)(Cl)Cl
+Vinyltrimethoxysilane,22.850000000000023,17.450000000000045,Test,0,1.8159999999999998,0.8959999999999999,8.296,4.552,C(=C)[Si](OC)(OC)OC
+Ethoxytrimethylsilane,-27.149999999999977,-9.489999999999952,Test,0,1.604,0.853,10.97,4.086,C(C)O[Si](C)(C)C
+Phenyltrichlorosilane,90.85000000000002,84.81,Test,0,2.072,0.9890000000000001,10.32,6.029,C1(=CC=CC=C1)[Si](Cl)(Cl)Cl
+Cyclohexyltrichlorosilane,84.85000000000002,89.56,Test,0,2.072,0.9590000000000001,12.036,7.148,C1(CCCCC1)[Si](Cl)(Cl)Cl
+1-Trimethylsilylpropyne,-3.1499999999999773,-7.569999999999993,Test,0,1.604,0.863,11.424000000000001,3.844,C[Si](C#CC)(C)C
+Hexyldichlorosilane,63.85000000000002,59.73000000000002,Test,0,2.0669999999999997,0.9229999999999999,15.654000000000002,4.803999999999999,C(CCCCC)[SiH](Cl)Cl
+Allyltrimethoxysilane,45.85000000000002,27.78000000000003,Test,0,1.955,0.892,8.292,4.886,C(C=C)[Si](OC)(OC)OC
+3-Chloropropylmethyldimethoxysilane,44.85000000000002,44.47000000000003,Test,0,2.006,0.9059999999999999,11.027000000000001,5.181,ClCCC[Si](OC)(OC)C
+n-Propyltrimethoxysilane,24.850000000000023,25.49000000000001,Test,0,1.955,0.8809999999999999,9.726,4.749,C(CC)[Si](OC)(OC)OC
+Hexamethyldisiloxane,-3.1499999999999773,3.3100000000000023,Test,0,1.733,0.848,8.984,5.142,C[Si](O[Si](C)(C)C)(C)C
+Hexamethyldisilazane,7.850000000000023,8.340000000000032,Test,0,1.733,0.84,11.429,5.405,C[Si](N[Si](C)(C)C)(C)C
+Methyltriacetoxysilane,84.85000000000002,68.23000000000002,Test,0,2.329,0.9329999999999999,8.076,5.3020000000000005,C[Si](OC(C)=O)(OC(C)=O)OC(C)=O
+n-Heptyltrichlorosilane,63.85000000000002,90.52000000000004,Test,0,2.25,0.943,17.493,5.676,C(CCCCCC)[Si](Cl)(Cl)Cl
+(1-Methoxy-2-propoxy)trimethylsilane,19.850000000000023,29.25,Test,0,1.985,0.867,11.606,5.034,COCC(C)O[Si](C)(C)C
+Heptamethyldisilazane,26.850000000000023,16.340000000000032,Test,0,1.775,0.841,11.078,5.968999999999999,C[Si](N([Si](C)(C)C)C)(C)C
+Vinyltriacetoxysilane,87.85000000000002,77.52000000000004,Test,0,2.4019999999999997,0.937,7.497000000000001,5.757999999999999,C(=C)[Si](OC(C)=O)(OC(C)=O)OC(C)=O
+(Cyclopentenyloxy)trimethylsilane,37.85000000000002,45.120000000000005,Test,0,2.119,0.873,13.152999999999999,5.282,C1(=CCCC1)O[Si](C)(C)C
+Tetramethyldivinyldisiloxane,18.850000000000023,32.53000000000003,Test,0,1.969,0.867,9.186,5.921,C[Si](O[Si](C=C)(C=C)C)(C)C
+Diethyldiethoxysilane,42.85000000000002,37.960000000000036,Test,0,2.084,0.866,9.238999999999999,5.81,C(C)[Si](OCC)(OCC)CC
+Tetramethyldiethoxysiloxane,37.85000000000002,46.26000000000005,Test,0,2.248,0.87,5.281000000000001,6.3260000000000005,CC(C(O[Si]([O])OCC)(C)C)C
+Tri-n-propylchlorosilane,75.85000000000002,56.879999999999995,Test,0,2.122,0.88,14.339,5.921,C(CC)[Si](Cl)(CCC)CCC
+Tris(trimethylsiloxy)boron,41.85000000000002,74.80000000000001,Test,0,2.4459999999999997,0.866,8.56,7.415,C[Si](OB(O[Si](C)(C)C)O[Si](C)(C)C)(C)C
+1-Heptynyltrimethylsilane,41.85000000000002,59.31,Test,0,2.25,0.8590000000000001,20.274,4.947,C(#CCCCCC)[Si](C)(C)C
+Tristrimethylsiloxymethylsilane,62.85000000000002,77.88,Test,0,2.4459999999999997,0.86,8.003,8.023,C[Si](OC(O[Si](C)(C)C)(O[Si](C)(C)C)[SiH3])(C)C
+Diphenyldichlorosilane,141.85000000000002,138.58000000000004,Test,0,2.6910000000000003,0.961,14.979000000000001,7.669,C1(=CC=CC=C1)[Si](Cl)(Cl)C1=CC=CC=C1
+Tetra-n-propoxysilane,94.85000000000002,112.91000000000003,Test,0,2.793,0.879,19.678,6.441,C(CC)O[Si](OCCC)(OCCC)OCCC
+Diphenylmethylsilane,119.85000000000002,117.92000000000002,Test,0,2.701,0.907,15.379000000000001,7.3629999999999995,C1(=CC=CC=C1)C(C1=CC=CC=C1)[SiH3]
+Hexadecamethylheptasiloxane,132.85000000000002,129.74,Test,0,3.445,0.867,-0.424,8.75,C[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](C)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C
