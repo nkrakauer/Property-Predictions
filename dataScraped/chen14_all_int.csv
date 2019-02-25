@@ -1,0 +1,24 @@
+compound,CAS NO.,Status,flashPoint,Predicted,RNF,1X,Qmax,DPSA2,IB,δtot2,smiles,id
+Dichloromethylmethyldichlorosilane,1558-31-2,Training,28.0,46.28000000000003,0.0,2.94,0.09,88.74,0.0,-13.25,ClC(Cl)[Si](Cl)(Cl)C,molid4
+n-Butyltrichlorosilane,7521-80-4,Training,54.0,48.78000000000003,0.0,3.56,0.05,87.16,0.0,-7.11,C(CCC)[Si](Cl)(Cl)Cl,molid21
+1-Hexenyltrichlorosilane,18817-29-3,Training,60.0,73.16000000000003,0.0,4.56,0.05,117.5,0.0,-6.71,C(=CCCCC)[Si](Cl)(Cl)Cl,molid48
+Phenylmethyldichlorosilane,149-74-6,Training,67.0,75.77000000000005,0.0,4.61,0.03,81.85,0.0,-6.22,C1(=CC=CC=C1)C[SiH](Cl)Cl,molid73
+Vinylmethyldiethoxysilane,5507-44-8,Training,16.0,31.629999999999995,0.0,4.68,0.03,165.29,0.0,5.65,C(=C)C[SiH](OCC)OCC,molid82
+t-Butoxytrimethylsilane,13058-24-7,Training,14.0,11.780000000000026,0.0,3.71,0.02,131.4,0.0,4.98,C(C)(C)(C)O[Si](C)(C)C,molid84
+n-Octyltrichlorosilane,5283-66-9,Training,96.0,92.35000000000002,0.0,5.56,0.05,171.84,0.0,-5.56,C(CCCCCCC)[Si](Cl)(Cl)Cl,molid95
+p-Chlorophenyltrimethylsilane,10557-71-8,Training,49.0,72.15000000000003,0.0,5.0,0.03,115.84,0.0,-2.49,ClC1=CC=C(C=C1)[Si](C)(C)C,molid110
+Propyltris(dimethylsiloxy)silane,172080-99-8,Training,50.0,68.53000000000003,0.0,7.31,0.05,399.95,0.0,10.46,C(CC)[Si](O[SiH](C)C)(O[SiH](C)C)O[SiH](C)C,molid117
+3-Methacryloxypropyltrimethoxysilane,2530-85-0,Training,92.0,92.34000000000003,0.0,7.51,0.08,402.33,0.0,4.04,C(C(=C)C)(=O)OCCC[Si](OC)(OC)OC,molid119
+Decamethyltetrasiloxane,141-62-8,Training,62.0,59.28000000000003,0.0,7.12,0.03,413.25,0.0,11.97,C[Si](O[Si](O[Si](O[Si](C)(C)C)(C)C)(C)C)(C)C,molid123
+Vinyltriethylsilane,1112-54-5,Training,45.0,31.31,0.0,4.24,0.02,102.81,0.0,3.68,C(=C)[Si](CC)(CC)CC,molid127
+Diphenylsilane,775-12-2,Training,98.0,94.22000000000004,0.0,6.45,0.03,113.48,0.0,2.44,C1(=CC=CC=C1)[SiH2]C1=CC=CC=C1,molid130
+Hexaethyldisiloxane,994-49-0,Training,76.0,86.16000000000004,0.0,7.07,0.02,268.06,0.0,6.73,C(C)[Si](O[Si](CC)(CC)CC)(CC)CC,molid134
+Trichloro(Chloromethyl) silane,1558-25-4,Training,69.0,47.5,0.0,2.56,0.29,119.37,0.0,-22.75,Cl[Si](CCl)(Cl)Cl,molid151
+Tris(trimethylsiloxy)silane,1873-89-8,Training,50.0,34.73000000000002,0.0,5.37,0.03,336.3,0.0,7.1,C[Si](O[SiH](O[Si](C)(C)C)O[Si](C)(C)C)(C)C,molid159
+"1,3-Dichlorotetramethyldisiloxane",2401-73-2,Test,15.0,40.51000000000005,0.0,3.71,0.03,136.15,0.0,-3.6,Cl[Si](O[Si](Cl)(C)C)(C)C,molid166
+Bis(dimethylamino)methylsilane,22705-33-5,Test,-3.0,-1.589999999999975,0.0,3.55,0.04,128.15,0.0,6.91,CN(C)C(N(C)C)[SiH3],molid172
+Vinyldiethylmethylsilane,18292-29-0,Test,15.0,16.980000000000018,0.0,3.68,0.02,88.23,0.0,3.49,C(=C)[Si](C)(CC)CC,molid184
+"(N,N-Dimethylamino)triethylsilane",3550-35-4,Test,26.0,33.700000000000045,0.0,4.63,0.02,142.4,0.0,5.36,CN(C)[Si](CC)(CC)CC,molid187
+Vinyltriacetoxysilane,8/9/4130,Test,88.0,89.07000000000004,0.0,6.81,0.09,312.0,0.0,1.02,C(=C)[Si](OC(C)=O)(OC(C)=O)OC(C)=O,molid188
+Tri-n-propylchlorosilane,995-25-5,Test,76.0,64.82000000000005,0.0,5.18,0.02,148.3,0.0,0.51,C(CC)[Si](Cl)(CCC)CCC,molid197
+Dichlorodiethylsilane,1719-53-5,Test,24.0,33.34000000000003,0.0,3.12,0.03,69.36,0.0,-5.82,Cl[Si](CC)(CC)Cl,molid210

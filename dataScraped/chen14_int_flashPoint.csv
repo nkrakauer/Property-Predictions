@@ -1,0 +1,24 @@
+id,compound,smiles,flashPoint
+molid4,Dichloromethylmethyldichlorosilane,ClC(Cl)[Si](Cl)(Cl)C,28.0
+molid21,n-Butyltrichlorosilane,C(CCC)[Si](Cl)(Cl)Cl,54.0
+molid48,1-Hexenyltrichlorosilane,C(=CCCCC)[Si](Cl)(Cl)Cl,60.0
+molid73,Phenylmethyldichlorosilane,C1(=CC=CC=C1)C[SiH](Cl)Cl,67.0
+molid82,Vinylmethyldiethoxysilane,C(=C)C[SiH](OCC)OCC,16.0
+molid84,t-Butoxytrimethylsilane,C(C)(C)(C)O[Si](C)(C)C,14.0
+molid95,n-Octyltrichlorosilane,C(CCCCCCC)[Si](Cl)(Cl)Cl,96.0
+molid110,p-Chlorophenyltrimethylsilane,ClC1=CC=C(C=C1)[Si](C)(C)C,49.0
+molid117,Propyltris(dimethylsiloxy)silane,C(CC)[Si](O[SiH](C)C)(O[SiH](C)C)O[SiH](C)C,50.0
+molid119,3-Methacryloxypropyltrimethoxysilane,C(C(=C)C)(=O)OCCC[Si](OC)(OC)OC,92.0
+molid123,Decamethyltetrasiloxane,C[Si](O[Si](O[Si](O[Si](C)(C)C)(C)C)(C)C)(C)C,62.0
+molid127,Vinyltriethylsilane,C(=C)[Si](CC)(CC)CC,45.0
+molid130,Diphenylsilane,C1(=CC=CC=C1)[SiH2]C1=CC=CC=C1,98.0
+molid134,Hexaethyldisiloxane,C(C)[Si](O[Si](CC)(CC)CC)(CC)CC,76.0
+molid151,Trichloro(Chloromethyl) silane,Cl[Si](CCl)(Cl)Cl,69.0
+molid159,Tris(trimethylsiloxy)silane,C[Si](O[SiH](O[Si](C)(C)C)O[Si](C)(C)C)(C)C,50.0
+molid166,"1,3-Dichlorotetramethyldisiloxane",Cl[Si](O[Si](Cl)(C)C)(C)C,15.0
+molid172,Bis(dimethylamino)methylsilane,CN(C)C(N(C)C)[SiH3],-3.0
+molid184,Vinyldiethylmethylsilane,C(=C)[Si](C)(CC)CC,15.0
+molid187,"(N,N-Dimethylamino)triethylsilane",CN(C)[Si](CC)(CC)CC,26.0
+molid188,Vinyltriacetoxysilane,C(=C)[Si](OC(C)=O)(OC(C)=O)OC(C)=O,88.0
+molid197,Tri-n-propylchlorosilane,C(CC)[Si](Cl)(CCC)CCC,76.0
+molid210,Dichlorodiethylsilane,Cl[Si](CC)(CC)Cl,24.0
