@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[2]:
-
-
 import os
 import numpy as np
 import pandas as pd
@@ -18,14 +12,13 @@ from keras.utils import np_utils
 from keras import backend as K
 from sklearn.model_selection import StratifiedKFold, KFold
 
-
 # # Variables to be changed
 
 # In[3]:
 argv = sys.argv[1:]
 
 
-taskname = "expt"             ## Specify task to be predicted
+taskname = "flashPoint"             ## Specify task to be predicted
 tasktype = "regression"  ## Specify either classification or regression
 datarep = "image"          ## Specify data representation
 
@@ -34,20 +27,20 @@ datarep = "image"          ## Specify data representation
 
 
 # Specify dataset name
-jobname = "freesolv"
+jobname = "carroll"
 
 # Specify location of data
 homedir = os.path.expanduser("~/")
 if datarep == "image":
-    archdir = homedir+"chemnetEuler/archive/"
+    archdir = homedir+"property-predictions/archive/"
     K.set_image_dim_ordering('tf')
     pixel = 80
     num_channel = 4
-    channel = "engA"
+    channel = "engB"
 elif datarep == "tabular":
-    archdir = homedir+"chemnetEuler/data/"
+    archdir = homedir+"property-predictions/data/"
 elif datarep == "text":
-    archdir = homedir+"chemnetEuler/data/"
+    archdir = homedir+"property-predictions/data/"
 
 
 # # Loading Data
@@ -186,8 +179,8 @@ def f_nn():
                 json_file.write(model_json)
 
         # Setup callbacks TODO
-        filecp = jobname+"_"+taskname+"_EngDbestweights_trial_"+str(run_counter)+"_"+str(i)+".hdf5"
-        filecsv = jobname+"_"+taskname+"_loss_curve_"+str(run_counter)+"_"+str(i)+".csv"
+        filecp = jobname+"_"+taskname+"_"+channel+"_bestweights_trial_"+str(run_counter)+"_"+str(i)+".hdf5"
+        filecsv = jobname+"_"+taskname+"_"+channel+"_loss_curve_"+str(run_counter)+"_"+str(i)+".csv"
         callbacks = [TerminateOnNaN(),
                      LambdaCallback(on_epoch_end=lambda epoch,logs: sys.stdout.flush()),
                      EarlyStopping(monitor='val_loss', patience=25, verbose=1, mode='auto'),
@@ -212,18 +205,19 @@ def f_nn():
 
         # Visualize loss curve
         hist_df = cs_keras_to_seaborn(hist)
-        cs_make_plots(hist_df, hist)
+        cs_make_plots(hist_df, hist, channel)
         # Reload best model & compute results
         model.load_weights(filecp)
         cs_compute_results(model, classes=y_class, df_out=cv_results,
                            train_data=(X_train,y_train),
                            valid_data=(X_valid,y_valid),
-                           test_data=(X_test,y_test))
+                           test_data=(X_test,y_test),
+			   channel=channel)
     
     # Calculate results for entire CV
     final_mean = cv_results.mean(axis=0)
     final_std = cv_results.std(axis=0)
-    cv_results.to_csv('results.csv', index=False)
+    cv_results.to_csv('results_'+channel+'.csv', index=False)
     
     # Print final results
     print('*** TRIAL RESULTS: '+str(run_counter))
@@ -277,8 +271,8 @@ elif datarep == "text":
 # num_blockN: 1 to 5 (int)
 # convN units: 16, 32, 64, 128, 256 (int)
 elif datarep == "image":
-    params = {"conv1_units":32, "conv2_units":32, "conv3_units":32,
-              "conv4_units":32, "conv5_units":32, "conv6_units":32,
+    params = {"conv1_units":16, "conv2_units":16, "conv3_units":16,
+              "conv4_units":16, "conv5_units":16, "conv6_units":16,
               "num_block1":3, "num_block2":3, "num_block3":3, "dropval":0}
 
 
@@ -287,9 +281,9 @@ elif datarep == "image":
 
 # Run settings
 
-run_counter = 0
-batch_size = 32
-nb_epoch = 400
+run_counter = 1
+batch_size = 64
+nb_epoch = 200
 verbose = 1
 prototype = True
 

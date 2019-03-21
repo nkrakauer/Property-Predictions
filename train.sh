@@ -12,8 +12,8 @@
 #SBATCH -t 4-16:00 # time (D-HH:MM)
 
 ## Create a unique output file for the job
-#SBATCH --error=/srv/home/nkrakauer/chemnetEuler/silaneEngAmodel-%j.err
-#SBATCH --output=/srv/home/nkrakauer/chemnetEuler/silaneEngAmodel-%j.out
+#SBATCH --error=/srv/home/nkrakauer/property-predictions/engBmodel-%j.err
+#SBATCH --output=/srv/home/nkrakauer/property-predictions/engBmodel-%j.out
 
 ## Load CUDA into your environment
 ## load custimized CUDA and cudaToolkit
@@ -34,11 +34,5 @@ source activate moleprop
 #export PATH=$PATH:$CUDA_HOME/bin
 #export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CUDA_HOME/lib64:$HOME/extras/CUPTI/lib64
 
-#python /srv/home/nkrakauer/chemnetEuler/ToxNet_01_CleanData.py
-#python /srv/home/nkrakauer/chemnetEuler/ToxNet_01_CleanExtData.py
-#python /srv/home/nkrakauer/chemnetEuler/ToxNet_02_Internal_Test_Set.py
-#python /srv/home/nkrakauer/chemnetEuler/ToxNet_03_SplitTask_Int.py
-#python /srv/home/nkrakauer/chemnetEuler/ToxNet_03_SplitTask_TrainVal.py
-#python /srv/home/nkrakauer/chemnetEuler/ToxNet_21_Prep2D.py
-#python /srv/home/nkrakauer/chemnetEuler/ToxNet_31_PrepSMILES.py
-python /srv/home/nkrakauer/chemnetEuler/MLP_Prototype.py
+python /srv/home/nkrakauer/property-predictions/aug_chemception.py
+#python /srv/home/nkrakauer/property-predictions/dataStats.py

@@ -25,9 +25,6 @@ def softmax(array):
 
 def cs_auc(y_true, y_pred):
     auc = roc_auc_score(y_true, y_pred)
-    #fpr, tpr, threshold = sklearn.metrics.roc_curve(y_true, y_pred)
-    #fig, axes = plt.subplots(1,1)
-    #plt.plot(x=tpr, y=fpr, 
     return auc
 
 
@@ -49,9 +46,7 @@ def cs_multiclass_auc(y_true, y_pred):
     return total
 
 
-# In[ ]:
-
-def cs_compute_results(model, classes=None, train_data=None, valid_data=None, test_data=None, df_out=None):
+def cs_compute_results(model, classes=None, train_data=None, valid_data=None, test_data=None, df_out=None, channel='engA'):
     
     # Evaluate results on training set
     X_tmp = train_data[0]
@@ -93,7 +88,7 @@ def cs_compute_results(model, classes=None, train_data=None, valid_data=None, te
 	#Nathaniel added 
         Y_pred_test = model.predict(X_tmp)
         print('class==1')
-        cs_parity_plot(y_tmp, Y_pred_test);
+        cs_parity_plot(y_tmp, Y_pred_test, channel);
     elif classes == 2:
         y_preds_test = model.predict(X_tmp)
         auc_test = cs_auc(y_tmp, y_preds_test)
@@ -122,9 +117,6 @@ def cs_compute_results(model, classes=None, train_data=None, valid_data=None, te
         print("FINAL TST_AUC: %.3f"%(auc_test))
         df_out.loc[len(df_out)] = [loss_train, loss_valid, loss_test, auc_train, auc_valid, auc_test]
 
-
-# In[ ]:
-
 def cs_keras_to_seaborn(history):
     tmp_frame = pd.DataFrame(history.history)
     keys = list(history.history.keys())
@@ -142,61 +134,44 @@ def cs_keras_to_seaborn(history):
 
 
 
-def cs_make_plots(hist_df,hist, filename=None):
+def cs_make_plots(hist_df,hist,channel, filename=None):
+    print('plot made '+channel)
     plt.style.use('fivethirtyeight')
     print(hist.history.keys())
     # summarize history for accuracy
-    plt.plot(hist.history['acc'])
-    plt.plot(hist.history['val_acc'])
-    plt.title('model accuracy')
-    plt.ylabel('accuracy')
+    plt.plot(hist.history['mean_squared_error'])
+    plt.plot(hist.history['val_mean_squared_error'])
+    plt.title('model mse '+channel)
+    plt.ylabel('mean squared error')
     plt.xlabel('epoch')
     plt.legend(['train', 'test'], loc='upper left')
     plt.tight_layout()
-    plt.savefig('model accuracy silane engA')
+    plt.savefig('mean square error plot '+channel)
     plt.gcf().clear()
 
     #summarize history for loss
     plt.plot(hist.history['loss'])
     plt.plot(hist.history['val_loss'])
-    plt.title('model loss')
+    plt.title('model loss '+channel)
     plt.ylabel('loss')
     plt.xlabel('epoch')
     plt.legend(['train', 'test'], loc='upper left')
     plt.tight_layout()
-    plt.savefig('model loss silane engA')
-    #plt.gcf.clear()
-    #fig, axes = plt.subplots(1, 1)
-    #sns.pointplot(x='epoch', y='loss', hue='phase', data=hist_df, ax=axes)
-    #axes.set_title('Loss Curve', fontdict={'size': 20})
-   # axes.set_ylim(np.min(hist_df['loss']), np.max(hist_df['loss']))
-   # axes.xaxis.set_ticks(np.arange(0, 400, 25))
-    #losscurve = 'Loss Curve std' 
-    #plt.tight_layout()
-    #plt.savefig(losscurve)
-    #plt.show()
+    plt.savefig('model loss plot '+channel)
 
-def cs_parity_plot(x,y):
-    #TODO
-    #print(plt.style.available)
-    avgX = sum(x) / len(x)
-    avgY = sum(y) / len(y)
-    stdX = np.std(x)
-    stdY = np.std(y)
+def cs_parity_plot(x,y,channel):
     plt.gcf().clear()
     plt.style.use('fivethirtyeight')
     plt.scatter(x,y, label='degree Celsius',color='#30a2da')
-    plt.plot([0,200],[0,200],lw=2, label='best fit', color='#fc4f30')
-    plt.ylim(0,200)
-    plt.xlim(0, 200)
-    plt.title('Silane Data engA')
+    plt.plot([100,500],[100,500],lw=2, label='best fit', color='#fc4f30')
+    plt.ylim(100,500)
+    plt.xlim(100, 500)
+    plt.title('Carroll Data '+channel)
     plt.legend(loc='lower right')
-    #plt.ylabel('Predicted (kcal/mol)')
-    #plt.xlabel('Experimental (kcal/mol)')
-    plt.ylabel('Predicted (degrees Celsius)')
-    plt.xlabel('Experimental (degrees Celsius)')
+    plt.ylabel('Predicted (degrees Kelvin)')
+    plt.xlabel('Experimental (degrees Kelvin)')
     plt.tight_layout()
-    plt.savefig('Silane Data engA epoch=400 parity plot')
+    plt.savefig('parity plot '+channel)
 
 def cs_plot_auc(y_test, y_score, classes):
     # Compute ROC curve and ROC area for each class
@@ -249,3 +224,8 @@ def cs_plot_cm(cm, classes,
     plt.tight_layout()
     plt.savefig('confusion matrix')
 
+# inputs dataFrame, outputs mean std
+def data_stats(dataFrame, property):
+   mean = dataFrame[property].mean()
+   std = dataFrame[property].std()
+   return mean, std 

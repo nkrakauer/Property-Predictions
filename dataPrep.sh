@@ -12,8 +12,8 @@
 #SBATCH -t 4-16:00 # time (D-HH:MM)
 
 ## Create a unique output file for the job
-#SBATCH --error=/srv/home/nkrakauer/chemnetEuler/model-%j.err
-#SBATCH --output=/srv/home/nkrakauer/chemnetEuler/model-%j.out
+#SBATCH --error=/srv/home/nkrakauer/property-predictions/model-%j.err
+#SBATCH --output=/srv/home/nkrakauer/property-predictions/model-%j.out
 
 ## Load CUDA into your environment
 ## load custimized CUDA and cudaToolkit
@@ -34,5 +34,6 @@ source activate moleprop
 #export PATH=$PATH:$CUDA_HOME/bin
 #export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CUDA_HOME/lib64:$HOME/extras/CUPTI/lib64
 
-python /srv/home/nkrakauer/chemnetEuler/dataPrepFreeSolv.py
+#python /srv/home/nkrakauer/property-predictions/splitDataset.py
+python /srv/home/nkrakauer/property-predictions/makeImages.py
 #python /srv/home/nkrakauer/chemnetEuler/prepSMILES.py
