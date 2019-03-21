@@ -12,11 +12,11 @@ import os
 
 from rdkit import Chem
 from rdkit.Chem import Draw
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 
 homedir = os.path.expanduser("~/")
-homedir = homedir+"projects/Property-Predictions/dataScraped/"
-df = pd.read_csv(homedir+"data.csv", sep=',')
+homedir = homedir+"property-predictions/dataScraped/"
+df = pd.read_csv(homedir+"chenPlusGelest.csv", sep=',')
 
 
 # In[20]:
@@ -38,7 +38,7 @@ df.columns
 # In[22]:
 
 
-df.to_csv(homedir+"data_all.csv", index=False)
+df.to_csv(homedir+"data2_all.csv", index=False)
 
 
 # # Internal Set
@@ -46,7 +46,7 @@ df.to_csv(homedir+"data_all.csv", index=False)
 # In[23]:
 
 
-df = pd.read_csv(homedir+"data_all.csv")
+df = pd.read_csv(homedir+"data2_all.csv")
 
 
 # In[24]:
@@ -70,8 +70,8 @@ print(df.shape, df_tv.shape, df_int.shape)
 # In[26]:
 
 
-df_tv.to_csv(homedir+'data_all_trainval.csv', index=False)
-df_int.to_csv(homedir+'data_all_int.csv', index=False)
+df_tv.to_csv(homedir+'data2_all_trainval.csv', index=False)
+df_int.to_csv(homedir+'data2_all_int.csv', index=False)
 
 
 # # Split Data By Task
@@ -80,7 +80,7 @@ df_int.to_csv(homedir+'data_all_int.csv', index=False)
 
 
 # Check for missing labels
-dfInt = pd.read_csv(homedir+"data_all_int.csv")
+dfInt = pd.read_csv(homedir+"data2_all_int.csv")
 dfInt['flashPoint'].isnull().sum()
 #df.shape
 
@@ -89,16 +89,16 @@ dfInt['flashPoint'].isnull().sum()
 
 
 df1Int = dfInt[['id','compound','smiles','flashPoint']]
-df1Int.to_csv(homedir+"data_int_flashPoint.csv", index=False)
+df1Int.to_csv(homedir+"data2_int_flashPoint.csv", index=False)
 
 
 # In[29]:
 
 
-dfTrainval = pd.read_csv(homedir+"data_all_trainval.csv")
+dfTrainval = pd.read_csv(homedir+"data2_all_trainval.csv")
 #print(dfTrainval.head(5))
 dfTrainval = dfTrainval[['id','compound','smiles','flashPoint']]
-dfTrainval.to_csv(homedir+"data_tv_flashPoint.csv", index=False)
+dfTrainval.to_csv(homedir+"data2_tv_flashPoint.csv", index=False)
 
 
 # ## 2D Images
@@ -107,8 +107,8 @@ dfTrainval.to_csv(homedir+"data_tv_flashPoint.csv", index=False)
 
 
 homedir = os.path.expanduser("~/")
-archdir = homedir+"projects/Property-Predictions/archive/"
-homedir = homedir+"projects/Property-Predictions/dataScraped/"
+archdir = homedir+"property-predictions/archive/"
+homedir = homedir+"property-predictions/dataScraped/"
 
 
 # In[31]:
@@ -189,7 +189,7 @@ def gen_image():
 
 dim = 40       # Size of the box in Angstroms, not radius!
 res = 0.5      # Resolution of each pixel
-rep = "engA"    # Image representation used
+rep = "engD"    # Image representation used
 nskip = 500    # How many steps till next visualization
 
 gridsize = int(dim/res)
@@ -199,7 +199,7 @@ gridsize = int(dim/res)
 
 
 # Specify dataset name
-jobname = "data_int"
+jobname = "data2_int"
 taskname = ["flashPoint"]
 
 for task in taskname:
@@ -244,7 +244,7 @@ for task in taskname:
 
 
 # Specify dataset name
-jobname = "data_tv"
+jobname = "data2_tv"
 taskname = ["flashPoint"]
 
 for task in taskname:
@@ -280,10 +280,3 @@ for task in taskname:
     label_array = mod_df[task].as_matrix().astype("float32")
     np.save(filelabel, label_array)
     print(label_array.shape)
-
-
-# In[ ]:
-
-
-
-
