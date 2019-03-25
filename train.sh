@@ -12,8 +12,8 @@
 #SBATCH -t 4-16:00 # time (D-HH:MM)
 
 ## Create a unique output file for the job
-#SBATCH --error=/srv/home/nkrakauer/property-predictions/engBmodel-%j.err
-#SBATCH --output=/srv/home/nkrakauer/property-predictions/engBmodel-%j.out
+#SBATCH --error=/srv/home/nkrakauer/property-predictions/engCmodel-%j.err
+#SBATCH --output=/srv/home/nkrakauer/property-predictions/engCmodel-%j.out
 
 ## Load CUDA into your environment
 ## load custimized CUDA and cudaToolkit

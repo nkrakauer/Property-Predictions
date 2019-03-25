@@ -8,7 +8,6 @@
 #SBATCH -c 1
 
 ## Request a GPU from the scheduler, we don't care what kind
-##SBATCH --gres=gpu:gtx2080ti:1
 #SBATCH -t 4-16:00 # time (D-HH:MM)
 
 ## Create a unique output file for the job

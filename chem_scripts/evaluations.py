@@ -168,8 +168,8 @@ def cs_parity_plot(x,y,channel):
     plt.xlim(100, 500)
     plt.title('Carroll Data '+channel)
     plt.legend(loc='lower right')
-    plt.ylabel('Predicted (degrees Kelvin)')
-    plt.xlabel('Experimental (degrees Kelvin)')
+    plt.ylabel('Predicted (Kelvin)')
+    plt.xlabel('Experimental (Kelvin)')
     plt.tight_layout()
     plt.savefig('parity plot '+channel)
 

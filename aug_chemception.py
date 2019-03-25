@@ -36,7 +36,7 @@ if datarep == "image":
     K.set_image_dim_ordering('tf')
     pixel = 80
     num_channel = 4
-    channel = "engB"
+    channel = "engC"
 elif datarep == "tabular":
     archdir = homedir+"property-predictions/data/"
 elif datarep == "text":
@@ -281,9 +281,9 @@ elif datarep == "image":
 
 # Run settings
 
-run_counter = 1
+run_counter = 0
 batch_size = 64
-nb_epoch = 200
+nb_epoch = 300
 verbose = 1
 prototype = True
 
